@@ -1,0 +1,43 @@
+{
+    "nodes": [
+        {
+            "id": "linux_1",
+            "type": "skill",
+            "data": {
+                "label": "Linux Survival",
+                "status": "active",
+                "resources": [
+                    {
+                        "title": "Linux Journey",
+                        "url": "https://linuxjourney.com/"
+                    }
+                ]
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "docker_1",
+            "type": "skill",
+            "data": {
+                "label": "Docker Containers",
+                "status": "locked",
+                "resources": []
+            },
+            "position": {
+                "x": 0,
+                "y": 150
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1-2",
+            "source": "linux_1",
+            "target": "docker_1",
+            "animated": true
+        }
+    ]
+}

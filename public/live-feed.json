@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Show HN: Revibing nanochat's inference model in C++ with ggml",
+    "url": "https://news.ycombinator.com/item?id=46566128",
+    "source": "HackerNews",
+    "date": "2026-01-10T14:46:46Z"
+  },
+  {
+    "title": "Show HN: Loft CLI \u2013 Fine-tune and run LLMs (1\u20133B) on 8 GB MacBook Air, no GPUs",
+    "url": "https://news.ycombinator.com/item?id=44627754",
+    "source": "HackerNews",
+    "date": "2025-07-20T18:14:15Z"
+  },
+  {
+    "title": "Show HN: LLMOne \u2013 Deploy LLMs from bare metal to production in hours",
+    "url": "https://news.ycombinator.com/item?id=44345471",
+    "source": "HackerNews",
+    "date": "2025-06-22T09:44:37Z"
+  },
+  {
+    "title": "Show HN: InferX \u2013 an AI-native OS for running 50 LLMs per GPU with hot swapping",
+    "url": "https://news.ycombinator.com/item?id=43717767",
+    "source": "HackerNews",
+    "date": "2025-04-17T14:51:53Z"
+  },
+  {
+    "title": "Comparing GenAI Inference Engines: TensorRT-LLM, VLLM, HF TGI, and LMDeploy",
+    "url": "https://news.ycombinator.com/item?id=43620472",
+    "source": "HackerNews",
+    "date": "2025-04-08T11:32:20Z"
+  },
+  {
+    "title": "Nanbeige4-3B-Thinking-2511 is great for summarization",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnltu7/nanbeige43bthinking2511_is_great_for_summarization/",
+    "source": "r/LocalLLaMA",
+    "date": "2026-01-26T17:03:14+00:00"
+  },
+  {
+    "title": "Thought I won the lottery...but it was actually the powerball!!!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnlogu/thought_i_won_the_lotterybut_it_was_actually_the/",
+    "source": "r/LocalLLaMA",
+    "date": "2026-01-26T16:58:25+00:00"
+  },
+  {
+    "title": "Built an open-source, self-hosted AI agent automation platform \u2014 feedback welcome",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnl9ap/built_an_opensource_selfhosted_ai_agent/",
+    "source": "r/LocalLLaMA",
+    "date": "2026-01-26T16:44:07+00:00"
+  },
+  {
+    "title": "vtables aren't slow (usually)",
+    "url": "https://www.reddit.com/r/cpp/comments/1qn3jkv/vtables_arent_slow_usually/",
+    "source": "r/cpp",
+    "date": "2026-01-26T02:34:16+00:00"
+  },
+  {
+    "title": "Look at this, a cool new feature on cppstat. The Feature Adoption Timelime.",
+    "url": "https://www.reddit.com/r/cpp/comments/1qn38kz/look_at_this_a_cool_new_feature_on_cppstat_the/",
+    "source": "r/cpp",
+    "date": "2026-01-26T02:20:48+00:00"
+  },
+  {
+    "title": "I Want To Index Into Template Parameter Packs",
+    "url": "https://www.reddit.com/r/cpp/comments/1qn4b1q/i_want_to_index_into_template_parameter_packs/",
+    "source": "r/cpp",
+    "date": "2026-01-26T03:08:05+00:00"
+  }
+]
