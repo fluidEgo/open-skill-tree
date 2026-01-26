@@ -1,16 +1,48 @@
-# React + Vite
+# 🌳 Open Skill Tree (AI-Powered)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> An infinite, self-updating learning roadmap engine powered by Gemini 2.0.
 
-Currently, two official plugins are available:
+Unlike static roadmaps (e.g., roadmap.sh), this application uses **Generative AI** and **Live Market Data** to build a curriculum that adapts to *you* and the *current state of the industry*.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Key Features
 
-## React Compiler
+* **🧠 Adaptive Brain:** Uses Gemini 2.5/2.0 to generate unique missions based on your current skills.
+* **📡 Live Intelligence:** Scrapes ArXiv, HackerNews, and Reddit daily to inject "Bleeding Edge" technologies into your path.
+* **∞ Infinite Canvas:** Learn anything. Type "Rust", "Pottery", or "Quantum Physics", and a tree is generated instantly.
+* **⚔️ RPG Progression:** Earn XP, conquer nodes, and prune unwanted branches.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Installation
 
-## Expanding the ESLint configuration
+1.  **Clone the repo:**
+    ```bash
+    git clone [https://github.com/yourusername/open-skill-tree.git](https://github.com/yourusername/open-skill-tree.git)
+    cd open-skill-tree
+    ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    pip install -r requirements.txt
+    ```
+
+3.  **Setup Environment:**
+    Create a `.env` file and add your Google Gemini API Key:
+    ```env
+    VITE_GEMINI_API_KEY=your_key_here
+    ```
+
+4.  **Run the System:**
+    * **Start the App:** `npm run dev`
+    * **Harvest Data:** `python scripts/harvest.py`
+
+## 🏗️ Architecture
+
+1.  **Harvester (Python):** Wakes up daily -> Scrapes Web -> Updates `live-feed.json`.
+2.  **React Engine (Vite):** Renders the Infinite Canvas (ReactFlow).
+3.  **The Brain (Gemini):**
+    * Input: User History + Live Feed + Target Skill.
+    * Process: "Model Hunter" algorithm finds the best available AI model.
+    * Output: JSON-structured curriculum nodes.
+
+## 🤖 Automation
+This repository includes a **GitHub Action** (`daily_harvest.yml`) that runs every 24 hours to keep the learning data fresh automatically.
