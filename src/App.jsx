@@ -1,64 +1,51 @@
-import React, { useEffect, useState, useCallback } from 'react';
-import ReactFlow, { useNodesState, useEdgesState, Background, Controls } from 'reactflow';
+import React from 'react';
+import ReactFlow, { Background, Controls } from 'reactflow';
 import 'reactflow/dist/style.css';
-import { Terminal, Cpu, Database, Rss, Lock, CheckCircle, ExternalLink } from 'lucide-react';
+import { GameProvider, useGame } from './GameContext';
+import RPGNode from './nodes/SkillNode';
 
-// --- 1. Custom Node Component (The "Card") ---
-const SkillNode = ({ data }) => {
-  const statusColor = {
-    active: "border-blue-500 bg-slate-900 shadow-blue-500/20",
-    locked: "border-slate-700 bg-slate-900 opacity-50",
-    mastered: "border-green-500 bg-slate-900 shadow-green-500/20"
+// --- PERFORMANCE FIX ---
+// Define nodeTypes OUTSIDE the component so React doesn't re-create them every frame.
+const nodeTypes = { skill: RPGNode };
+
+const GameBoard = () => {
+  // Get logic and state from our Game Engine
+  const { nodes, edges, onNodesChange, onEdgesChange, userXP, addNewPath } = useGame();
+
+  // Handler for creating a new skill tree
+  const handleCreatePath = () => {
+    const topic = prompt("Enter a new skill to learn (e.g., Rust, System Design, Pottery):");
+    if (topic) {
+      addNewPath(topic);
+    }
   };
 
   return (
-    <div className={`p-4 rounded-xl border-2 w-64 shadow-xl transition-all ${statusColor[data.status]}`}>
-      <div className="flex items-center gap-2 mb-3">
-        {data.status === 'locked' ? <Lock size={16} className="text-slate-500" /> : <Terminal size={16} className="text-blue-400" />}
-        <h3 className="font-bold text-slate-100">{data.label}</h3>
+    <div className="w-screen h-screen bg-slate-950 font-sans text-slate-200">
+
+      {/* --- HUD (Heads-Up Display) --- */}
+      <div className="fixed top-5 left-5 z-50 flex gap-4">
+
+        {/* 1. XP Status Card */}
+        <div className="bg-slate-900 p-3 rounded-xl border border-slate-700 shadow-xl flex items-center gap-3">
+          <div className="bg-yellow-500 rounded-full w-8 h-8 flex items-center justify-center font-bold text-slate-900">👑</div>
+          <div>
+            <div className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Engineer Level</div>
+            <div className="text-xl font-black text-white leading-none">{userXP} XP</div>
+          </div>
+        </div>
+
+        {/* 2. NEW PATH BUTTON */}
+        <button
+          onClick={handleCreatePath}
+          className="bg-blue-600 hover:bg-blue-500 text-white px-5 py-2 rounded-xl font-bold text-sm shadow-lg shadow-blue-900/20 transition-all flex items-center gap-2 active:scale-95 border border-blue-400/20"
+        >
+          <span className="text-lg leading-none font-black">+</span> New Path
+        </button>
+
       </div>
 
-      <div className="space-y-2">
-        {data.resources.map((res, i) => (
-          <a key={i} href={res.url} target="_blank" className="flex items-center gap-2 text-xs text-slate-400 hover:text-blue-400 transition-colors p-1 rounded hover:bg-slate-800">
-            <ExternalLink size={10} />
-            {res.title}
-          </a>
-        ))}
-        {data.status === 'locked' && <div className="text-xs text-slate-600 italic">Complete dependencies first</div>}
-      </div>
-    </div>
-  );
-};
-
-const nodeTypes = { skill: SkillNode };
-
-export default function App() {
-  const [nodes, setNodes, onNodesChange] = useNodesState([]);
-  const [edges, setEdges, onEdgesChange] = useEdgesState([]);
-  const [feed, setFeed] = useState([]);
-  const [isPanelOpen, setPanelOpen] = useState(false);
-
-  // --- 2. Fetcher Engine ---
-  useEffect(() => {
-    // A. Fetch The Tree
-    fetch('/data.json') // Reads from public/data.json
-      .then(res => res.json())
-      .then(json => {
-        setNodes(json.nodes.map(n => ({ ...n, type: 'skill' })));
-        setEdges(json.edges);
-      });
-
-    // B. Fetch The Live Feed
-    fetch('/live-feed.json')
-      .then(res => res.json())
-      .then(data => setFeed(data))
-      .catch(err => console.log("Feed not built yet (Run Harvester)"));
-  }, []);
-
-  return (
-    <div className="w-screen h-screen bg-slate-950 text-slate-200 font-mono">
-      {/* The Graph */}
+      {/* --- THE INFINITE CANVAS --- */}
       <ReactFlow
         nodes={nodes}
         edges={edges}
@@ -66,40 +53,22 @@ export default function App() {
         onEdgesChange={onEdgesChange}
         nodeTypes={nodeTypes}
         fitView
+        minZoom={0.1}
       >
-        <Background color="#334155" gap={20} />
+        {/* The Grid Background */}
+        <Background color="#334155" gap={32} size={1} />
+
+        {/* Navigation Controls */}
         <Controls className="bg-slate-800 border-slate-700 fill-slate-200" />
       </ReactFlow>
-
-      {/* --- 3. The Live "Systems" Panel --- */}
-      <div className={`fixed top-0 right-0 h-full w-96 bg-slate-900 border-l border-slate-700 transform transition-transform duration-300 z-50 ${isPanelOpen ? 'translate-x-0' : 'translate-x-full'}`}>
-        <div className="p-6 h-full overflow-y-auto">
-          <h2 className="text-xl font-bold mb-6 flex items-center gap-2 text-blue-400">
-            <Rss size={20} /> Systems Intelligence
-          </h2>
-          <div className="space-y-4">
-            {feed.map((item, idx) => (
-              <a key={idx} href={item.url} target="_blank" className="block p-4 rounded-lg bg-slate-800 border border-slate-700 hover:border-blue-500 transition-all group">
-                <div className="text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-1 group-hover:text-blue-400">
-                  {item.source}
-                </div>
-                <div className="text-sm font-medium text-slate-200 leading-snug">
-                  {item.title}
-                </div>
-              </a>
-            ))}
-          </div>
-        </div>
-      </div>
-
-      {/* Toggle Button */}
-      <button
-        onClick={() => setPanelOpen(!isPanelOpen)}
-        className="fixed bottom-6 right-6 bg-blue-600 text-white p-4 rounded-full shadow-lg hover:bg-blue-500 transition-all z-50 flex items-center gap-2"
-      >
-        {isPanelOpen ? 'Close Feed' : 'Live Signal'}
-        {!isPanelOpen && <span className="flex h-3 w-3 relative"><span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span><span className="relative inline-flex rounded-full h-3 w-3 bg-red-400"></span></span>}
-      </button>
     </div>
+  );
+};
+
+export default function App() {
+  return (
+    <GameProvider>
+      <GameBoard />
+    </GameProvider>
   );
 }

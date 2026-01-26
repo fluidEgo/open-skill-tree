@@ -1,31 +1,38 @@
-name: System Harvester
+name: Daily Knowledge Harvest
+
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
-  workflow_dispatch:      # Allow manual run button
+    # Runs at 06:00 UTC every day
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
 
 jobs:
   harvest:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # CRITICAL: Allows the bot to commit changes
-    
+
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-          
-      - name: Install Libs
-        run: pip install requests feedparser
-        
-      - name: Run Harvester script
+
+      - name: Install Python Dependencies
+        run: |
+          pip install requests beautifulsoup4 feedparser
+
+      - name: Run Harvester
         run: python scripts/harvest.py
-        
-      - name: Commit Feed Update
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "📡 Harvest: Updated Intelligence Feed"
-          file_pattern: "public/live-feed.json"
+
+      - name: Commit and Push New Data
+        run: |
+          git config --global user.name 'Harvester Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add public/live-feed.json
+          git commit -m "🌱 Daily Harvest: Updated Live Intelligence" || exit 0
+          git push
