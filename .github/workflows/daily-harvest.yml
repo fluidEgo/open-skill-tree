@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Python Dependencies
         run: |
-          pip install requests beautifulsoup4 feedparser
+          pip install requests beautifulsoup4 feedparser arxiv
 
       - name: Run Harvester
         run: python scripts/harvest.py
