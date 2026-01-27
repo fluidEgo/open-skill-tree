@@ -1,50 +1,32 @@
 [
   {
-    "source": "AI Systems",
-    "title": "transformers v5 final is out \ud83d\udd25",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1qnk7fq/transformers_v5_final_is_out/",
-    "type": "community"
-  },
-  {
-    "source": "Systems Lang",
-    "title": "zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative",
-    "url": "https://reddit.com/r/rust/comments/1qn2aev/zerobrew_is_a_rustbased_520x_faster_dropin/",
-    "type": "community"
-  },
-  {
-    "source": "Systems Lang",
-    "title": "Things I miss in Rust",
-    "url": "https://reddit.com/r/rust/comments/1qmu3m6/things_i_miss_in_rust/",
-    "type": "community"
-  },
-  {
     "source": "ArXiv Paper",
-    "title": "AnyView: Synthesizing Any Novel View in Dynamic Scenes",
-    "url": "http://arxiv.org/abs/2601.16982v1",
+    "title": "ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models",
+    "url": "http://arxiv.org/abs/2601.18796v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs",
-    "url": "http://arxiv.org/abs/2601.16979v1",
+    "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
+    "url": "http://arxiv.org/abs/2601.18795v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection",
-    "url": "http://arxiv.org/abs/2601.16976v1",
+    "title": "MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data",
+    "url": "http://arxiv.org/abs/2601.18792v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Auto-Regressive Masked Diffusion Models",
-    "url": "http://arxiv.org/abs/2601.16971v1",
+    "title": "Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets",
+    "url": "http://arxiv.org/abs/2601.18791v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "3D Molecule Generation from Rigid Motifs via SE(3) Flows",
-    "url": "http://arxiv.org/abs/2601.16955v1",
+    "title": "Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings",
+    "url": "http://arxiv.org/abs/2601.18788v1",
     "type": "research"
   }
 ]
