@@ -1,9 +1,12 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from 'dotenv';
 
-// Load your .env file
-dotenv.config();
+// To this (looks 2 levels up):
+import { fileURLToPath } from 'url';
+import { dirname, resolve } from 'path';
 
+const __dirname = dirname(fileURLToPath(import.meta.url));
+dotenv.config({ path: resolve(__dirname, '../../.env') });
 const apiKey = process.env.VITE_GEMINI_API_KEY;
 
 if (!apiKey) {
