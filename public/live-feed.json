@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models",
-    "url": "http://arxiv.org/abs/2601.18796v1",
+    "title": "Self-Distillation Enables Continual Learning",
+    "url": "http://arxiv.org/abs/2601.19897v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes",
-    "url": "http://arxiv.org/abs/2601.18795v1",
+    "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
+    "url": "http://arxiv.org/abs/2601.19895v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data",
-    "url": "http://arxiv.org/abs/2601.18792v1",
+    "title": "M-SGWR: Multiscale Similarity and Geographically Weighted Regression",
+    "url": "http://arxiv.org/abs/2601.19888v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets",
-    "url": "http://arxiv.org/abs/2601.18791v1",
+    "title": "SONIC: Spectral Oriented Neural Invariant Convolutions",
+    "url": "http://arxiv.org/abs/2601.19884v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence Embeddings",
-    "url": "http://arxiv.org/abs/2601.18788v1",
+    "title": "RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms",
+    "url": "http://arxiv.org/abs/2601.19876v1",
     "type": "research"
   }
 ]
