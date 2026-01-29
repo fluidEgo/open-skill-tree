@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Self-Distillation Enables Continual Learning",
-    "url": "http://arxiv.org/abs/2601.19897v1",
+    "title": "Evolutionary Strategies lead to Catastrophic Forgetting in LLMs",
+    "url": "http://arxiv.org/abs/2601.20861v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Post-LayerNorm Is Back: Stable, ExpressivE, and Deep",
-    "url": "http://arxiv.org/abs/2601.19895v1",
+    "title": "Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation",
+    "url": "http://arxiv.org/abs/2601.20854v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "M-SGWR: Multiscale Similarity and Geographically Weighted Regression",
-    "url": "http://arxiv.org/abs/2601.19888v1",
+    "title": "C3Box: A CLIP-based Class-Incremental Learning Toolbox",
+    "url": "http://arxiv.org/abs/2601.20852v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SONIC: Spectral Oriented Neural Invariant Convolutions",
-    "url": "http://arxiv.org/abs/2601.19884v1",
+    "title": "Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation",
+    "url": "http://arxiv.org/abs/2601.20848v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms",
-    "url": "http://arxiv.org/abs/2601.19876v1",
+    "title": "PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting",
+    "url": "http://arxiv.org/abs/2601.20845v1",
     "type": "research"
   }
 ]
