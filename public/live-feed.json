@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Evolutionary Strategies lead to Catastrophic Forgetting in LLMs",
-    "url": "http://arxiv.org/abs/2601.20861v1",
+    "title": "Discovering Hidden Gems in Model Repositories",
+    "url": "http://arxiv.org/abs/2601.22157v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation",
-    "url": "http://arxiv.org/abs/2601.20854v1",
+    "title": "Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts",
+    "url": "http://arxiv.org/abs/2601.22156v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "C3Box: A CLIP-based Class-Incremental Learning Toolbox",
-    "url": "http://arxiv.org/abs/2601.20852v1",
+    "title": "Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing",
+    "url": "http://arxiv.org/abs/2601.22151v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation",
-    "url": "http://arxiv.org/abs/2601.20848v1",
+    "title": "FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale",
+    "url": "http://arxiv.org/abs/2601.22146v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting",
-    "url": "http://arxiv.org/abs/2601.20845v1",
+    "title": "Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data",
+    "url": "http://arxiv.org/abs/2601.22141v1",
     "type": "research"
   }
 ]
