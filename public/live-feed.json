@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Discovering Hidden Gems in Model Repositories",
-    "url": "http://arxiv.org/abs/2601.22157v1",
+    "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
+    "url": "http://arxiv.org/abs/2601.23286v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts",
-    "url": "http://arxiv.org/abs/2601.22156v1",
+    "title": "End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms",
+    "url": "http://arxiv.org/abs/2601.23285v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing",
-    "url": "http://arxiv.org/abs/2601.22151v1",
+    "title": "Decoupled Diffusion Sampling for Inverse Problems on Function Spaces",
+    "url": "http://arxiv.org/abs/2601.23280v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale",
-    "url": "http://arxiv.org/abs/2601.22146v1",
+    "title": "FOCUS: DLLMs Know How to Tame Their Compute Bound",
+    "url": "http://arxiv.org/abs/2601.23278v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data",
-    "url": "http://arxiv.org/abs/2601.22141v1",
+    "title": "Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging",
+    "url": "http://arxiv.org/abs/2601.23276v1",
     "type": "research"
   }
 ]
