@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
-    "url": "http://arxiv.org/abs/2601.23286v1",
+    "title": "Reward-free Alignment for Conflicting Objectives",
+    "url": "http://arxiv.org/abs/2602.02495v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "End-to-end Optimization of Belief and Policy Learning in Shared Autonomy Paradigms",
-    "url": "http://arxiv.org/abs/2601.23285v1",
+    "title": "MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training",
+    "url": "http://arxiv.org/abs/2602.02494v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Decoupled Diffusion Sampling for Inverse Problems on Function Spaces",
-    "url": "http://arxiv.org/abs/2601.23280v1",
+    "title": "RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System",
+    "url": "http://arxiv.org/abs/2602.02488v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FOCUS: DLLMs Know How to Tame Their Compute Bound",
-    "url": "http://arxiv.org/abs/2601.23278v1",
+    "title": "Expanding the Capabilities of Reinforcement Learning via Text Feedback",
+    "url": "http://arxiv.org/abs/2602.02482v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging",
-    "url": "http://arxiv.org/abs/2601.23276v1",
+    "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+    "url": "http://arxiv.org/abs/2602.02474v1",
     "type": "research"
   }
 ]
