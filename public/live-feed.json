@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Reward-free Alignment for Conflicting Objectives",
-    "url": "http://arxiv.org/abs/2602.02495v1",
+    "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning",
+    "url": "http://arxiv.org/abs/2602.03846v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training",
-    "url": "http://arxiv.org/abs/2602.02494v1",
+    "title": "Investigating Quantum Circuit Designs Using Neuro-Evolution",
+    "url": "http://arxiv.org/abs/2602.03840v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System",
-    "url": "http://arxiv.org/abs/2602.02488v1",
+    "title": "Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL",
+    "url": "http://arxiv.org/abs/2602.03839v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Expanding the Capabilities of Reinforcement Learning via Text Feedback",
-    "url": "http://arxiv.org/abs/2602.02482v1",
+    "title": "Robust Intervention Learning from Emergency Stop Interventions",
+    "url": "http://arxiv.org/abs/2602.03825v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
-    "url": "http://arxiv.org/abs/2602.02474v1",
+    "title": "Preference-based Conditional Treatment Effects and Policy Learning",
+    "url": "http://arxiv.org/abs/2602.03823v1",
     "type": "research"
   }
 ]
