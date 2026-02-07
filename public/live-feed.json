@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Reinforced Attention Learning",
-    "url": "http://arxiv.org/abs/2602.04884v1",
+    "title": "Shared LoRA Subspaces for almost Strict Continual Learning",
+    "url": "http://arxiv.org/abs/2602.06043v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Protein Autoregressive Modeling via Multiscale Structure Generation",
-    "url": "http://arxiv.org/abs/2602.04883v1",
+    "title": "Pseudo-Invertible Neural Networks",
+    "url": "http://arxiv.org/abs/2602.06042v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Contrastive Continual Learning for Model Adaptability in Internet of Things",
-    "url": "http://arxiv.org/abs/2602.04881v1",
+    "title": "CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction",
+    "url": "http://arxiv.org/abs/2602.06038v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rethinking the Trust Region in LLM Reinforcement Learning",
-    "url": "http://arxiv.org/abs/2602.04879v1",
+    "title": "Can vision language models learn intuitive physics from interaction?",
+    "url": "http://arxiv.org/abs/2602.06033v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Multi-layer Cross-Attention is Provably Optimal for Multi-modal In-context Learning",
-    "url": "http://arxiv.org/abs/2602.04872v1",
+    "title": "PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling",
+    "url": "http://arxiv.org/abs/2602.06030v1",
     "type": "research"
   }
 ]
