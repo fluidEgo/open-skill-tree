@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Learning a Generative Meta-Model of LLM Activations",
-    "url": "http://arxiv.org/abs/2602.06964v1",
+    "title": "Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving",
+    "url": "http://arxiv.org/abs/2602.09018v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine",
-    "url": "http://arxiv.org/abs/2602.06955v1",
+    "title": "Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models",
+    "url": "http://arxiv.org/abs/2602.09017v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
-    "url": "http://arxiv.org/abs/2602.06949v1",
+    "title": "Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense",
+    "url": "http://arxiv.org/abs/2602.09012v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Agentic Uncertainty Reveals Agentic Overconfidence",
-    "url": "http://arxiv.org/abs/2602.06948v1",
+    "title": "ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling",
+    "url": "http://arxiv.org/abs/2602.09009v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches",
-    "url": "http://arxiv.org/abs/2602.06944v1",
+    "title": "ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification",
+    "url": "http://arxiv.org/abs/2602.09008v1",
     "type": "research"
   }
 ]
