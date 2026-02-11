@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving",
-    "url": "http://arxiv.org/abs/2602.09018v1",
+    "title": "Biases in the Blind Spot: Detecting What LLMs Fail to Mention",
+    "url": "http://arxiv.org/abs/2602.10117v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models",
-    "url": "http://arxiv.org/abs/2602.09017v1",
+    "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
+    "url": "http://arxiv.org/abs/2602.10104v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense",
-    "url": "http://arxiv.org/abs/2602.09012v1",
+    "title": "Towards Explainable Federated Learning: Understanding the Impact of Differential Privacy",
+    "url": "http://arxiv.org/abs/2602.10100v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling",
-    "url": "http://arxiv.org/abs/2602.09009v1",
+    "title": "Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders",
+    "url": "http://arxiv.org/abs/2602.10099v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification",
-    "url": "http://arxiv.org/abs/2602.09008v1",
+    "title": "Step-resolved data attribution for looped transformers",
+    "url": "http://arxiv.org/abs/2602.10097v1",
     "type": "research"
   }
 ]
