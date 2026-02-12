@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Biases in the Blind Spot: Detecting What LLMs Fail to Mention",
-    "url": "http://arxiv.org/abs/2602.10117v1",
+    "title": "Diffusion-Pretrained Dense and Contextual Embeddings",
+    "url": "http://arxiv.org/abs/2602.11151v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
-    "url": "http://arxiv.org/abs/2602.10104v1",
+    "title": "YOR: Your Own Mobile Manipulator for Generalizable Robotics",
+    "url": "http://arxiv.org/abs/2602.11150v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Towards Explainable Federated Learning: Understanding the Impact of Differential Privacy",
-    "url": "http://arxiv.org/abs/2602.10100v1",
+    "title": "SCRAPL: Scattering Transform with Random Paths for Machine Learning",
+    "url": "http://arxiv.org/abs/2602.11145v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders",
-    "url": "http://arxiv.org/abs/2602.10099v1",
+    "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
+    "url": "http://arxiv.org/abs/2602.11144v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Step-resolved data attribution for looped transformers",
-    "url": "http://arxiv.org/abs/2602.10097v1",
+    "title": "Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows",
+    "url": "http://arxiv.org/abs/2602.11142v1",
     "type": "research"
   }
 ]
