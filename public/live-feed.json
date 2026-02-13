@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Diffusion-Pretrained Dense and Contextual Embeddings",
-    "url": "http://arxiv.org/abs/2602.11151v1",
+    "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
+    "url": "http://arxiv.org/abs/2602.12279v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "YOR: Your Own Mobile Manipulator for Generalizable Robotics",
-    "url": "http://arxiv.org/abs/2602.11150v1",
+    "title": "Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage",
+    "url": "http://arxiv.org/abs/2602.12274v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SCRAPL: Scattering Transform with Random Paths for Machine Learning",
-    "url": "http://arxiv.org/abs/2602.11145v1",
+    "title": "Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs",
+    "url": "http://arxiv.org/abs/2602.12273v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
-    "url": "http://arxiv.org/abs/2602.11144v1",
+    "title": "MonarchRT: Efficient Attention for Real-Time Video Generation",
+    "url": "http://arxiv.org/abs/2602.12271v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows",
-    "url": "http://arxiv.org/abs/2602.11142v1",
+    "title": "Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data",
+    "url": "http://arxiv.org/abs/2602.12267v1",
     "type": "research"
   }
 ]
