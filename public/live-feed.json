@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos",
-    "url": "http://arxiv.org/abs/2602.13197v1",
+    "title": "Symmetry in language statistics shapes the geometry of model representations",
+    "url": "http://arxiv.org/abs/2602.15029v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins",
-    "url": "http://arxiv.org/abs/2602.13181v1",
+    "title": "Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization",
+    "url": "http://arxiv.org/abs/2602.15028v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Improved Regret Guarantees for Online Mirror Descent using a Portfolio of Mirror Maps",
-    "url": "http://arxiv.org/abs/2602.13177v1",
+    "title": "Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation",
+    "url": "http://arxiv.org/abs/2602.15022v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning functional components of PDEs from data using neural networks",
-    "url": "http://arxiv.org/abs/2602.13174v1",
+    "title": "Generalization from Low- to Moderate-Resolution Spectra with Neural Networks for Stellar Parameter Estimation: A Case Study with DESI",
+    "url": "http://arxiv.org/abs/2602.15021v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Realistic Face Reconstruction from Facial Embeddings via Diffusion Models",
-    "url": "http://arxiv.org/abs/2602.13168v1",
+    "title": "Scaling Beyond Masked Diffusion Language Models",
+    "url": "http://arxiv.org/abs/2602.15014v1",
     "type": "research"
   }
 ]
