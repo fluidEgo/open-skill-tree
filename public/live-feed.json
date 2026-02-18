@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Symmetry in language statistics shapes the geometry of model representations",
-    "url": "http://arxiv.org/abs/2602.15029v1",
+    "title": "Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution",
+    "url": "http://arxiv.org/abs/2602.15830v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization",
-    "url": "http://arxiv.org/abs/2602.15028v1",
+    "title": "Operationalising the Superficial Alignment Hypothesis via Task Complexity",
+    "url": "http://arxiv.org/abs/2602.15829v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation",
-    "url": "http://arxiv.org/abs/2602.15022v1",
+    "title": "Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation",
+    "url": "http://arxiv.org/abs/2602.15828v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Generalization from Low- to Moderate-Resolution Spectra with Neural Networks for Stellar Parameter Estimation: A Case Study with DESI",
-    "url": "http://arxiv.org/abs/2602.15021v1",
+    "title": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
+    "url": "http://arxiv.org/abs/2602.15827v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Scaling Beyond Masked Diffusion Language Models",
-    "url": "http://arxiv.org/abs/2602.15014v1",
+    "title": "CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing",
+    "url": "http://arxiv.org/abs/2602.15823v1",
     "type": "research"
   }
 ]
