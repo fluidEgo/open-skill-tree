@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Knowledge-Embedded Latent Projection for Robust Representation Learning",
-    "url": "http://arxiv.org/abs/2602.16709v1",
+    "title": "Sink-Aware Pruning for Diffusion Language Models",
+    "url": "http://arxiv.org/abs/2602.17664v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Causality is Key for Interpretability Claims to Generalise",
-    "url": "http://arxiv.org/abs/2602.16698v1",
+    "title": "MARS: Margin-Aware Reward-Modeling with Self-Refinement",
+    "url": "http://arxiv.org/abs/2602.17658v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Protecting the Undeleted in Machine Unlearning",
-    "url": "http://arxiv.org/abs/2602.16697v1",
+    "title": "Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval",
+    "url": "http://arxiv.org/abs/2602.17654v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Parameter-free representations outperform single-cell foundation models on downstream benchmarks",
-    "url": "http://arxiv.org/abs/2602.16696v1",
+    "title": "Multi-Round Human-AI Collaboration with User-Specified Requirements",
+    "url": "http://arxiv.org/abs/2602.17646v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Synthetic-Powered Multiple Testing with FDR Control",
-    "url": "http://arxiv.org/abs/2602.16690v1",
+    "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
+    "url": "http://arxiv.org/abs/2602.17645v1",
     "type": "research"
   }
 ]
