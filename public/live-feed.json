@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Sink-Aware Pruning for Diffusion Language Models",
-    "url": "http://arxiv.org/abs/2602.17664v1",
+    "title": "Assigning Confidence: K-partition Ensembles",
+    "url": "http://arxiv.org/abs/2602.18435v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MARS: Margin-Aware Reward-Modeling with Self-Refinement",
-    "url": "http://arxiv.org/abs/2602.17658v1",
+    "title": "The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning",
+    "url": "http://arxiv.org/abs/2602.18428v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval",
-    "url": "http://arxiv.org/abs/2602.17654v1",
+    "title": "Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems",
+    "url": "http://arxiv.org/abs/2602.18419v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Multi-Round Human-AI Collaboration with User-Specified Requirements",
-    "url": "http://arxiv.org/abs/2602.17646v1",
+    "title": "Subgroups of $U(d)$ Induce Natural RNN and Transformer Architectures",
+    "url": "http://arxiv.org/abs/2602.18417v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
-    "url": "http://arxiv.org/abs/2602.17645v1",
+    "title": "Unifying approach to uniform expressivity of graph neural networks",
+    "url": "http://arxiv.org/abs/2602.18409v1",
     "type": "research"
   }
 ]
