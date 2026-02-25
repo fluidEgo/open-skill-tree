@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "A Very Big Video Reasoning Suite",
-    "url": "http://arxiv.org/abs/2602.20159v1",
+    "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+    "url": "http://arxiv.org/abs/2602.21204v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks",
-    "url": "http://arxiv.org/abs/2602.20156v1",
+    "title": "Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics",
+    "url": "http://arxiv.org/abs/2602.21203v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks",
-    "url": "http://arxiv.org/abs/2602.20153v1",
+    "title": "Aletheia tackles FirstProof autonomously",
+    "url": "http://arxiv.org/abs/2602.21201v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data",
-    "url": "http://arxiv.org/abs/2602.20152v1",
+    "title": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs",
+    "url": "http://arxiv.org/abs/2602.21198v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Conformal Risk Control for Non-Monotonic Losses",
-    "url": "http://arxiv.org/abs/2602.20151v1",
+    "title": "Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking",
+    "url": "http://arxiv.org/abs/2602.21196v1",
     "type": "research"
   }
 ]
