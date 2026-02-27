@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
-    "url": "http://arxiv.org/abs/2602.22207v1",
+    "title": "Model Agreement via Anchoring",
+    "url": "http://arxiv.org/abs/2602.23360v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL",
-    "url": "http://arxiv.org/abs/2602.22190v1",
+    "title": "A Dataset is Worth 1 MB",
+    "url": "http://arxiv.org/abs/2602.23358v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach",
-    "url": "http://arxiv.org/abs/2602.22188v1",
+    "title": "SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport",
+    "url": "http://arxiv.org/abs/2602.23353v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning and Naming Subgroups with Exceptional Survival Characteristics",
-    "url": "http://arxiv.org/abs/2602.22179v1",
+    "title": "FlashOptim: Optimizers for Memory Efficient Training",
+    "url": "http://arxiv.org/abs/2602.23349v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Dynamic Personality Adaptation in Large Language Models via State Machines",
-    "url": "http://arxiv.org/abs/2602.22157v1",
+    "title": "Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms",
+    "url": "http://arxiv.org/abs/2602.23341v1",
     "type": "research"
   }
 ]
