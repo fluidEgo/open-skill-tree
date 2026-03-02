@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Model Agreement via Anchoring",
-    "url": "http://arxiv.org/abs/2602.23360v1",
+    "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+    "url": "http://arxiv.org/abs/2602.24289v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Dataset is Worth 1 MB",
-    "url": "http://arxiv.org/abs/2602.23358v1",
+    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+    "url": "http://arxiv.org/abs/2602.24286v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport",
-    "url": "http://arxiv.org/abs/2602.23353v1",
+    "title": "Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation",
+    "url": "http://arxiv.org/abs/2602.24283v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FlashOptim: Optimizers for Memory Efficient Training",
-    "url": "http://arxiv.org/abs/2602.23349v1",
+    "title": "Memory Caching: RNNs with Growing Memory",
+    "url": "http://arxiv.org/abs/2602.24281v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms",
-    "url": "http://arxiv.org/abs/2602.23341v1",
+    "title": "Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations",
+    "url": "http://arxiv.org/abs/2602.24278v1",
     "type": "research"
   }
 ]
