@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
-    "url": "http://arxiv.org/abs/2602.24289v1",
+    "title": "Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions",
+    "url": "http://arxiv.org/abs/2603.02204v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
-    "url": "http://arxiv.org/abs/2602.24286v1",
+    "title": "Frontier Models Can Take Actions at Low Probabilities",
+    "url": "http://arxiv.org/abs/2603.02202v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Taming Momentum: Rethinking Optimizer States Through Low-Rank Approximation",
-    "url": "http://arxiv.org/abs/2602.24283v1",
+    "title": "Adaptive Confidence Regularization for Multimodal Failure Detection",
+    "url": "http://arxiv.org/abs/2603.02200v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Memory Caching: RNNs with Growing Memory",
-    "url": "http://arxiv.org/abs/2602.24281v1",
+    "title": "Conformal Policy Control",
+    "url": "http://arxiv.org/abs/2603.02196v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations",
-    "url": "http://arxiv.org/abs/2602.24278v1",
+    "title": "From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories",
+    "url": "http://arxiv.org/abs/2603.02194v1",
     "type": "research"
   }
 ]
