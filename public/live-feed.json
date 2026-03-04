@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions",
-    "url": "http://arxiv.org/abs/2603.02204v1",
+    "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
+    "url": "http://arxiv.org/abs/2603.03281v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Frontier Models Can Take Actions at Low Probabilities",
-    "url": "http://arxiv.org/abs/2603.02202v1",
+    "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+    "url": "http://arxiv.org/abs/2603.03280v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Adaptive Confidence Regularization for Multimodal Failure Detection",
-    "url": "http://arxiv.org/abs/2603.02200v1",
+    "title": "Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision",
+    "url": "http://arxiv.org/abs/2603.03275v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Conformal Policy Control",
-    "url": "http://arxiv.org/abs/2603.02196v1",
+    "title": "Virtual-Memory Assisted Buffer Management In Tiered Memory",
+    "url": "http://arxiv.org/abs/2603.03271v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories",
-    "url": "http://arxiv.org/abs/2603.02194v1",
+    "title": "Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing",
+    "url": "http://arxiv.org/abs/2603.03270v1",
     "type": "research"
   }
 ]
