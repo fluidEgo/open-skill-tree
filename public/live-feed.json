@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
-    "url": "http://arxiv.org/abs/2603.05504v1",
+    "title": "BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations",
+    "url": "http://arxiv.org/abs/2603.06576v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
-    "url": "http://arxiv.org/abs/2603.05500v1",
+    "title": "SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation",
+    "url": "http://arxiv.org/abs/2603.06572v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels",
-    "url": "http://arxiv.org/abs/2603.05495v1",
+    "title": "A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention",
+    "url": "http://arxiv.org/abs/2603.06567v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation",
-    "url": "http://arxiv.org/abs/2603.05494v1",
+    "title": "Boosting deep Reinforcement Learning using pretraining with Logical Options",
+    "url": "http://arxiv.org/abs/2603.06565v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "NL2GDS: LLM-aided interface for Open Source Chip Design",
-    "url": "http://arxiv.org/abs/2603.05489v1",
+    "title": "Causal Interpretation of Neural Network Computations with Contribution Decomposition",
+    "url": "http://arxiv.org/abs/2603.06557v1",
     "type": "research"
   }
 ]
