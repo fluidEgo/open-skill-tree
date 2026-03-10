@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations",
-    "url": "http://arxiv.org/abs/2603.06576v1",
+    "title": "Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting",
+    "url": "http://arxiv.org/abs/2603.08707v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation",
-    "url": "http://arxiv.org/abs/2603.06572v1",
+    "title": "Agentic Critical Training",
+    "url": "http://arxiv.org/abs/2603.08706v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention",
-    "url": "http://arxiv.org/abs/2603.06567v1",
+    "title": "Split Federated Learning Architectures for High-Accuracy and Low-Delay Model Training",
+    "url": "http://arxiv.org/abs/2603.08687v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Boosting deep Reinforcement Learning using pretraining with Logical Options",
-    "url": "http://arxiv.org/abs/2603.06565v1",
+    "title": "Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio",
+    "url": "http://arxiv.org/abs/2603.08683v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Causal Interpretation of Neural Network Computations with Contribution Decomposition",
-    "url": "http://arxiv.org/abs/2603.06557v1",
+    "title": "Structural Causal Bottleneck Models",
+    "url": "http://arxiv.org/abs/2603.08682v1",
     "type": "research"
   }
 ]
