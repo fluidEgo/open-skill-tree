@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes",
-    "url": "http://arxiv.org/abs/2603.09974v1",
+    "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
+    "url": "http://arxiv.org/abs/2603.11045v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
-    "url": "http://arxiv.org/abs/2603.09972v1",
+    "title": "V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation",
+    "url": "http://arxiv.org/abs/2603.11042v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Think Before You Lie: How Reasoning Improves Honesty",
-    "url": "http://arxiv.org/abs/2603.09957v1",
+    "title": "Leech Lattice Vector Quantization for Efficient LLM Compression",
+    "url": "http://arxiv.org/abs/2603.11021v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding",
-    "url": "http://arxiv.org/abs/2603.09955v1",
+    "title": "Cross-Species Transfer Learning for Electrophysiology-to-Transcriptomics Mapping in Cortical GABAergic Interneurons",
+    "url": "http://arxiv.org/abs/2603.11000v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "On the Width Scaling of Neural Optimizers Under Matrix Operator Norms I: Row/Column Normalization and Hyperparameter Transfer",
-    "url": "http://arxiv.org/abs/2603.09952v1",
+    "title": "Factorized Neural Implicit DMD for Parametric Dynamics",
+    "url": "http://arxiv.org/abs/2603.10995v1",
     "type": "research"
   }
 ]
