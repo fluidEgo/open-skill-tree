@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
-    "url": "http://arxiv.org/abs/2603.11045v1",
+    "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
+    "url": "http://arxiv.org/abs/2603.12261v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation",
-    "url": "http://arxiv.org/abs/2603.11042v1",
+    "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
+    "url": "http://arxiv.org/abs/2603.12255v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Leech Lattice Vector Quantization for Efficient LLM Compression",
-    "url": "http://arxiv.org/abs/2603.11021v1",
+    "title": "Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models",
+    "url": "http://arxiv.org/abs/2603.12248v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Cross-Species Transfer Learning for Electrophysiology-to-Transcriptomics Mapping in Cortical GABAergic Interneurons",
-    "url": "http://arxiv.org/abs/2603.11000v1",
+    "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+    "url": "http://arxiv.org/abs/2603.12246v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Factorized Neural Implicit DMD for Parametric Dynamics",
-    "url": "http://arxiv.org/abs/2603.10995v1",
+    "title": "Separable neural architectures as a primitive for unified predictive and generative intelligence",
+    "url": "http://arxiv.org/abs/2603.12244v1",
     "type": "research"
   }
 ]
