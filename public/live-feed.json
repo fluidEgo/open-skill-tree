@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
-    "url": "http://arxiv.org/abs/2603.12261v1",
+    "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
+    "url": "http://arxiv.org/abs/2603.13228v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
-    "url": "http://arxiv.org/abs/2603.12255v1",
+    "title": "Representation Learning for Spatiotemporal Physical Systems",
+    "url": "http://arxiv.org/abs/2603.13227v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models",
-    "url": "http://arxiv.org/abs/2603.12248v1",
+    "title": "Learnability and Privacy Vulnerability are Entangled in a Few Critical Weights",
+    "url": "http://arxiv.org/abs/2603.13186v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
-    "url": "http://arxiv.org/abs/2603.12246v1",
+    "title": "MXNorm: Reusing MXFP block scales for efficient tensor normalisation",
+    "url": "http://arxiv.org/abs/2603.13180v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Separable neural architectures as a primitive for unified predictive and generative intelligence",
-    "url": "http://arxiv.org/abs/2603.12244v1",
+    "title": "Towards Faithful Multimodal Concept Bottleneck Models",
+    "url": "http://arxiv.org/abs/2603.13163v1",
     "type": "research"
   }
 ]
