@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
-    "url": "http://arxiv.org/abs/2603.13228v1",
+    "title": "HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification",
+    "url": "http://arxiv.org/abs/2603.15617v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Representation Learning for Spatiotemporal Physical Systems",
-    "url": "http://arxiv.org/abs/2603.13227v1",
+    "title": "SmartSearch: How Ranking Beats Structure for Conversational Memory Retrieval",
+    "url": "http://arxiv.org/abs/2603.15599v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learnability and Privacy Vulnerability are Entangled in a Few Critical Weights",
-    "url": "http://arxiv.org/abs/2603.13186v1",
+    "title": "AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer",
+    "url": "http://arxiv.org/abs/2603.15597v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MXNorm: Reusing MXFP block scales for efficient tensor normalisation",
-    "url": "http://arxiv.org/abs/2603.13180v1",
+    "title": "Robust and Computationally Efficient Linear Contextual Bandits under Adversarial Corruption and Heavy-Tailed Noise",
+    "url": "http://arxiv.org/abs/2603.15596v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Towards Faithful Multimodal Concept Bottleneck Models",
-    "url": "http://arxiv.org/abs/2603.13163v1",
+    "title": "Effective Distillation to Hybrid xLSTM Architectures",
+    "url": "http://arxiv.org/abs/2603.15590v1",
     "type": "research"
   }
 ]
