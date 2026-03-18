@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification",
-    "url": "http://arxiv.org/abs/2603.15617v1",
+    "title": "Efficient Reasoning on the Edge",
+    "url": "http://arxiv.org/abs/2603.16867v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SmartSearch: How Ranking Beats Structure for Conversational Memory Retrieval",
-    "url": "http://arxiv.org/abs/2603.15599v1",
+    "title": "ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K",
+    "url": "http://arxiv.org/abs/2603.16866v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer",
-    "url": "http://arxiv.org/abs/2603.15597v1",
+    "title": "Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers",
+    "url": "http://arxiv.org/abs/2603.16857v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Robust and Computationally Efficient Linear Contextual Bandits under Adversarial Corruption and Heavy-Tailed Noise",
-    "url": "http://arxiv.org/abs/2603.15596v1",
+    "title": "GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators",
+    "url": "http://arxiv.org/abs/2603.16849v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Effective Distillation to Hybrid xLSTM Architectures",
-    "url": "http://arxiv.org/abs/2603.15590v1",
+    "title": "Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning",
+    "url": "http://arxiv.org/abs/2603.16846v1",
     "type": "research"
   }
 ]
