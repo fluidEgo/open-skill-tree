@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Efficient Reasoning on the Edge",
-    "url": "http://arxiv.org/abs/2603.16867v1",
+    "title": "Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+    "url": "http://arxiv.org/abs/2603.18004v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K",
-    "url": "http://arxiv.org/abs/2603.16866v1",
+    "title": "LoST: Level of Semantics Tokenization for 3D Shapes",
+    "url": "http://arxiv.org/abs/2603.17995v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers",
-    "url": "http://arxiv.org/abs/2603.16857v1",
+    "title": "Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training",
+    "url": "http://arxiv.org/abs/2603.17970v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators",
-    "url": "http://arxiv.org/abs/2603.16849v1",
+    "title": "Unified Policy Value Decomposition for Rapid Adaptation",
+    "url": "http://arxiv.org/abs/2603.17947v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning",
-    "url": "http://arxiv.org/abs/2603.16846v1",
+    "title": "CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention",
+    "url": "http://arxiv.org/abs/2603.17946v1",
     "type": "research"
   }
 ]
