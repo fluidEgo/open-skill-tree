@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
-    "url": "http://arxiv.org/abs/2603.18004v1",
+    "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+    "url": "http://arxiv.org/abs/2603.19229v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LoST: Level of Semantics Tokenization for 3D Shapes",
-    "url": "http://arxiv.org/abs/2603.17995v1",
+    "title": "Spectrally-Guided Diffusion Noise Schedules",
+    "url": "http://arxiv.org/abs/2603.19222v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training",
-    "url": "http://arxiv.org/abs/2603.17970v1",
+    "title": "Online Learning and Equilibrium Computation with Ranking Feedback",
+    "url": "http://arxiv.org/abs/2603.19221v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Unified Policy Value Decomposition for Rapid Adaptation",
-    "url": "http://arxiv.org/abs/2603.17947v1",
+    "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+    "url": "http://arxiv.org/abs/2603.19220v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention",
-    "url": "http://arxiv.org/abs/2603.17946v1",
+    "title": "DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+    "url": "http://arxiv.org/abs/2603.19219v1",
     "type": "research"
   }
 ]
