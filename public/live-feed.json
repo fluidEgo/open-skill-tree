@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
-    "url": "http://arxiv.org/abs/2603.19229v1",
+    "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+    "url": "http://arxiv.org/abs/2603.20193v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Spectrally-Guided Diffusion Noise Schedules",
-    "url": "http://arxiv.org/abs/2603.19222v1",
+    "title": "MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms",
+    "url": "http://arxiv.org/abs/2603.20189v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Online Learning and Equilibrium Computation with Ranking Feedback",
-    "url": "http://arxiv.org/abs/2603.19221v1",
+    "title": "Kolmogorov-Arnold causal generative models",
+    "url": "http://arxiv.org/abs/2603.20184v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
-    "url": "http://arxiv.org/abs/2603.19220v1",
+    "title": "AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+    "url": "http://arxiv.org/abs/2603.20179v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
-    "url": "http://arxiv.org/abs/2603.19219v1",
+    "title": "Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation",
+    "url": "http://arxiv.org/abs/2603.20172v1",
     "type": "research"
   }
 ]
