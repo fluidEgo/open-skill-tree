@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
-    "url": "http://arxiv.org/abs/2603.20193v1",
+    "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
+    "url": "http://arxiv.org/abs/2603.22286v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms",
-    "url": "http://arxiv.org/abs/2603.20189v1",
+    "title": "End-to-End Training for Unified Tokenization and Latent Denoising",
+    "url": "http://arxiv.org/abs/2603.22283v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Kolmogorov-Arnold causal generative models",
-    "url": "http://arxiv.org/abs/2603.20184v1",
+    "title": "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model",
+    "url": "http://arxiv.org/abs/2603.22281v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
-    "url": "http://arxiv.org/abs/2603.20179v1",
+    "title": "The Dual Mechanisms of Spatial Reasoning in Vision-Language Models",
+    "url": "http://arxiv.org/abs/2603.22278v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation",
-    "url": "http://arxiv.org/abs/2603.20172v1",
+    "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
+    "url": "http://arxiv.org/abs/2603.22276v1",
     "type": "research"
   }
 ]
