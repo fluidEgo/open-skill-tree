@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning",
-    "url": "http://arxiv.org/abs/2603.23496v1",
+    "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+    "url": "http://arxiv.org/abs/2603.24594v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
-    "url": "http://arxiv.org/abs/2603.23495v1",
+    "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+    "url": "http://arxiv.org/abs/2603.24587v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
-    "url": "http://arxiv.org/abs/2603.23481v1",
+    "title": "Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+    "url": "http://arxiv.org/abs/2603.24580v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions",
-    "url": "http://arxiv.org/abs/2603.23472v1",
+    "title": "Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling",
+    "url": "http://arxiv.org/abs/2603.24567v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "End-to-End Efficient RL for Linear Bellman Complete MDPs with Deterministic Transitions",
-    "url": "http://arxiv.org/abs/2603.23461v1",
+    "title": "Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction",
+    "url": "http://arxiv.org/abs/2603.24562v1",
     "type": "research"
   }
 ]
