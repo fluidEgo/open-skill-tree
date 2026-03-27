@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
-    "url": "http://arxiv.org/abs/2603.24594v1",
+    "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+    "url": "http://arxiv.org/abs/2603.25740v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
-    "url": "http://arxiv.org/abs/2603.24587v1",
+    "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+    "url": "http://arxiv.org/abs/2603.25722v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
-    "url": "http://arxiv.org/abs/2603.24580v1",
+    "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+    "url": "http://arxiv.org/abs/2603.25719v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Trust Region Constrained Bayesian Optimization with Penalized Constraint Handling",
-    "url": "http://arxiv.org/abs/2603.24567v1",
+    "title": "Neural Network Conversion of Machine Learning Pipelines",
+    "url": "http://arxiv.org/abs/2603.25699v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction",
-    "url": "http://arxiv.org/abs/2603.24562v1",
+    "title": "A Unified Memory Perspective for Probabilistic Trustworthy AI",
+    "url": "http://arxiv.org/abs/2603.25692v1",
     "type": "research"
   }
 ]
