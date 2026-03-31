@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
-    "url": "http://arxiv.org/abs/2603.25740v1",
+    "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+    "url": "http://arxiv.org/abs/2603.28764v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
-    "url": "http://arxiv.org/abs/2603.25722v1",
+    "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+    "url": "http://arxiv.org/abs/2603.28762v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
-    "url": "http://arxiv.org/abs/2603.25719v1",
+    "title": "Temporal Credit Is Free",
+    "url": "http://arxiv.org/abs/2603.28750v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Neural Network Conversion of Machine Learning Pipelines",
-    "url": "http://arxiv.org/abs/2603.25699v1",
+    "title": "Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
+    "url": "http://arxiv.org/abs/2603.28744v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Unified Memory Perspective for Probabilistic Trustworthy AI",
-    "url": "http://arxiv.org/abs/2603.25692v1",
+    "title": "Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+    "url": "http://arxiv.org/abs/2603.28743v1",
     "type": "research"
   }
 ]
