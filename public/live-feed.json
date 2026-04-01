@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-    "url": "http://arxiv.org/abs/2603.28764v1",
+    "title": "Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?",
+    "url": "http://arxiv.org/abs/2603.30036v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
-    "url": "http://arxiv.org/abs/2603.28762v1",
+    "title": "Reward-Based Online LLM Routing via NeuralUCB",
+    "url": "http://arxiv.org/abs/2603.30035v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Temporal Credit Is Free",
-    "url": "http://arxiv.org/abs/2603.28750v1",
+    "title": "Tucker Attention: A generalization of approximate attention mechanisms",
+    "url": "http://arxiv.org/abs/2603.30033v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
-    "url": "http://arxiv.org/abs/2603.28744v1",
+    "title": "Refined Detection for Gumbel Watermarking",
+    "url": "http://arxiv.org/abs/2603.30017v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
-    "url": "http://arxiv.org/abs/2603.28743v1",
+    "title": "Tracking Equivalent Mechanistic Interpretations Across Neural Networks",
+    "url": "http://arxiv.org/abs/2603.30002v1",
     "type": "research"
   }
 ]
