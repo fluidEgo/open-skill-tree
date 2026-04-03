@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)",
-    "url": "http://arxiv.org/abs/2604.01216v1",
+    "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+    "url": "http://arxiv.org/abs/2604.02330v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline",
-    "url": "http://arxiv.org/abs/2604.01215v1",
+    "title": "Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+    "url": "http://arxiv.org/abs/2604.02324v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery",
-    "url": "http://arxiv.org/abs/2604.01210v1",
+    "title": "Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+    "url": "http://arxiv.org/abs/2604.02322v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LLM REgression with a Latent Iterative State Head",
-    "url": "http://arxiv.org/abs/2604.01206v1",
+    "title": "Topological Effects in Neural Network Field Theory",
+    "url": "http://arxiv.org/abs/2604.02313v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
-    "url": "http://arxiv.org/abs/2604.01204v1",
+    "title": "go-$m$HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices",
+    "url": "http://arxiv.org/abs/2604.02309v1",
     "type": "research"
   }
 ]
