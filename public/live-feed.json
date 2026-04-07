@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Enhancing Robustness of Federated Learning via Server Learning",
-    "url": "http://arxiv.org/abs/2604.03226v1",
+    "title": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
+    "url": "http://arxiv.org/abs/2604.04930v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Hierarchical Planning with Latent World Models",
-    "url": "http://arxiv.org/abs/2604.03208v1",
+    "title": "Stratifying Reinforcement Learning with Signal Temporal Logic",
+    "url": "http://arxiv.org/abs/2604.04923v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security",
-    "url": "http://arxiv.org/abs/2604.03205v1",
+    "title": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
+    "url": "http://arxiv.org/abs/2604.04920v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction",
-    "url": "http://arxiv.org/abs/2604.03203v1",
+    "title": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
+    "url": "http://arxiv.org/abs/2604.04916v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning the Signature of Memorization in Autoregressive Language Models",
-    "url": "http://arxiv.org/abs/2604.03199v1",
+    "title": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+    "url": "http://arxiv.org/abs/2604.04914v1",
     "type": "research"
   }
 ]
