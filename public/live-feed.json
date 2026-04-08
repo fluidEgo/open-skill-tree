@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
-    "url": "http://arxiv.org/abs/2604.04930v1",
+    "title": "In-Place Test-Time Training",
+    "url": "http://arxiv.org/abs/2604.06169v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Stratifying Reinforcement Learning with Signal Temporal Logic",
-    "url": "http://arxiv.org/abs/2604.04923v1",
+    "title": "Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes",
+    "url": "http://arxiv.org/abs/2604.06167v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
-    "url": "http://arxiv.org/abs/2604.04920v1",
+    "title": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
+    "url": "http://arxiv.org/abs/2604.06165v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
-    "url": "http://arxiv.org/abs/2604.04916v1",
+    "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
+    "url": "http://arxiv.org/abs/2604.06160v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
-    "url": "http://arxiv.org/abs/2604.04914v1",
+    "title": "Target Policy Optimization",
+    "url": "http://arxiv.org/abs/2604.06159v1",
     "type": "research"
   }
 ]
