@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "In-Place Test-Time Training",
-    "url": "http://arxiv.org/abs/2604.06169v1",
+    "title": "Fast Spatial Memory with Elastic Test-Time Training",
+    "url": "http://arxiv.org/abs/2604.07350v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes",
-    "url": "http://arxiv.org/abs/2604.06167v1",
+    "title": "MoRight: Motion Control Done Right",
+    "url": "http://arxiv.org/abs/2604.07348v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
-    "url": "http://arxiv.org/abs/2604.06165v1",
+    "title": "Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
+    "url": "http://arxiv.org/abs/2604.07345v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
-    "url": "http://arxiv.org/abs/2604.06160v1",
+    "title": "Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization",
+    "url": "http://arxiv.org/abs/2604.07343v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Target Policy Optimization",
-    "url": "http://arxiv.org/abs/2604.06159v1",
+    "title": "How to sketch a learning algorithm",
+    "url": "http://arxiv.org/abs/2604.07328v1",
     "type": "research"
   }
 ]
