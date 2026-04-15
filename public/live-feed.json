@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-    "url": "http://arxiv.org/abs/2604.11807v1",
+    "title": "CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations",
+    "url": "http://arxiv.org/abs/2604.13024v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
-    "url": "http://arxiv.org/abs/2604.11805v1",
+    "title": "Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
+    "url": "http://arxiv.org/abs/2604.13022v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Mechanistic Analysis of Looped Reasoning Language Models",
-    "url": "http://arxiv.org/abs/2604.11791v1",
+    "title": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
+    "url": "http://arxiv.org/abs/2604.13016v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
-    "url": "http://arxiv.org/abs/2604.11784v1",
+    "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+    "url": "http://arxiv.org/abs/2604.13010v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Autonomous Diffractometry Enabled by Visual Reinforcement Learning",
-    "url": "http://arxiv.org/abs/2604.11773v1",
+    "title": "Causal Diffusion Models for Counterfactual Outcome Distributions in Longitudinal Data",
+    "url": "http://arxiv.org/abs/2604.12992v1",
     "type": "research"
   }
 ]
