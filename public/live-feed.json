@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations",
-    "url": "http://arxiv.org/abs/2604.13024v1",
+    "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+    "url": "http://arxiv.org/abs/2604.14142v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
-    "url": "http://arxiv.org/abs/2604.13022v1",
+    "title": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+    "url": "http://arxiv.org/abs/2604.14140v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
-    "url": "http://arxiv.org/abs/2604.13016v1",
+    "title": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
+    "url": "http://arxiv.org/abs/2604.14137v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
-    "url": "http://arxiv.org/abs/2604.13010v1",
+    "title": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
+    "url": "http://arxiv.org/abs/2604.14128v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Causal Diffusion Models for Counterfactual Outcome Distributions in Longitudinal Data",
-    "url": "http://arxiv.org/abs/2604.12992v1",
+    "title": "Complex Interpolation of Matrices with an application to Multi-Manifold Learning",
+    "url": "http://arxiv.org/abs/2604.14118v1",
     "type": "research"
   }
 ]
