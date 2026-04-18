@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
-    "url": "http://arxiv.org/abs/2604.14142v1",
+    "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
+    "url": "http://arxiv.org/abs/2604.15306v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
-    "url": "http://arxiv.org/abs/2604.14140v1",
+    "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+    "url": "http://arxiv.org/abs/2604.15302v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
-    "url": "http://arxiv.org/abs/2604.14137v1",
+    "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+    "url": "http://arxiv.org/abs/2604.15297v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
-    "url": "http://arxiv.org/abs/2604.14128v1",
+    "title": "Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
+    "url": "http://arxiv.org/abs/2604.15285v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Complex Interpolation of Matrices with an application to Multi-Manifold Learning",
-    "url": "http://arxiv.org/abs/2604.14118v1",
+    "title": "How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
+    "url": "http://arxiv.org/abs/2604.15273v1",
     "type": "research"
   }
 ]
