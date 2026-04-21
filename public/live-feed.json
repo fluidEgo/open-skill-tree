@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Geometric regularization of autoencoders via observed stochastic dynamics",
-    "url": "http://arxiv.org/abs/2604.16282v1",
+    "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
+    "url": "http://arxiv.org/abs/2604.18584v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
-    "url": "http://arxiv.org/abs/2604.16279v1",
+    "title": "Sessa: Selective State Space Attention",
+    "url": "http://arxiv.org/abs/2604.18580v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning to Reason with Insight for Informal Theorem Proving",
-    "url": "http://arxiv.org/abs/2604.16278v1",
+    "title": "Bounded Ratio Reinforcement Learning",
+    "url": "http://arxiv.org/abs/2604.18578v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale",
-    "url": "http://arxiv.org/abs/2604.16265v1",
+    "title": "When Can LLMs Learn to Reason with Weak Supervision?",
+    "url": "http://arxiv.org/abs/2604.18574v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Information Router for Mitigating Modality Dominance in Vision-Language Models",
-    "url": "http://arxiv.org/abs/2604.16264v1",
+    "title": "Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale",
+    "url": "http://arxiv.org/abs/2604.18572v1",
     "type": "research"
   }
 ]
