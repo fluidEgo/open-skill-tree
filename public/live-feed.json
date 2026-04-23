@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Generalization at the Edge of Stability",
-    "url": "http://arxiv.org/abs/2604.19740v1",
+    "title": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
+    "url": "http://arxiv.org/abs/2604.20825v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
-    "url": "http://arxiv.org/abs/2604.19738v1",
+    "title": "Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples",
+    "url": "http://arxiv.org/abs/2604.20824v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Safe Continual Reinforcement Learning in Non-stationary Environments",
-    "url": "http://arxiv.org/abs/2604.19737v1",
+    "title": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
+    "url": "http://arxiv.org/abs/2604.20822v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FASTER: Value-Guided Sampling for Fast RL",
-    "url": "http://arxiv.org/abs/2604.19730v1",
+    "title": "Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
+    "url": "http://arxiv.org/abs/2604.20819v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FB-NLL: A Feature-Based Approach to Tackle Noisy Labels in Personalized Federated Learning",
-    "url": "http://arxiv.org/abs/2604.19729v1",
+    "title": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
+    "url": "http://arxiv.org/abs/2604.20817v1",
     "type": "research"
   }
 ]
