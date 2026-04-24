@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
-    "url": "http://arxiv.org/abs/2604.20825v1",
+    "title": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+    "url": "http://arxiv.org/abs/2604.21930v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples",
-    "url": "http://arxiv.org/abs/2604.20824v1",
+    "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+    "url": "http://arxiv.org/abs/2604.21927v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
-    "url": "http://arxiv.org/abs/2604.20822v1",
+    "title": "The Sample Complexity of Multicalibration",
+    "url": "http://arxiv.org/abs/2604.21923v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
-    "url": "http://arxiv.org/abs/2604.20819v1",
+    "title": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
+    "url": "http://arxiv.org/abs/2604.21911v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
-    "url": "http://arxiv.org/abs/2604.20817v1",
+    "title": "Low-Rank Adaptation Redux for Large Models",
+    "url": "http://arxiv.org/abs/2604.21905v1",
     "type": "research"
   }
 ]
