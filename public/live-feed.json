@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
-    "url": "http://arxiv.org/abs/2604.22753v1",
+    "title": "Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components",
+    "url": "http://arxiv.org/abs/2604.24758v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Relaxation-Informed Training of Neural Network Surrogate Models",
-    "url": "http://arxiv.org/abs/2604.22746v1",
+    "title": "The Optimal Sample Complexity of Multiclass and List Learning",
+    "url": "http://arxiv.org/abs/2604.24749v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data",
-    "url": "http://arxiv.org/abs/2604.22730v1",
+    "title": "Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes",
+    "url": "http://arxiv.org/abs/2604.24745v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering",
-    "url": "http://arxiv.org/abs/2604.22723v1",
+    "title": "Learning to Think from Multiple Thinkers",
+    "url": "http://arxiv.org/abs/2604.24737v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
-    "url": "http://arxiv.org/abs/2604.22722v1",
+    "title": "SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning",
+    "url": "http://arxiv.org/abs/2604.24729v1",
     "type": "research"
   }
 ]
