@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Recursive Multi-Agent Systems",
-    "url": "http://arxiv.org/abs/2604.25917v1",
+    "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
+    "url": "http://arxiv.org/abs/2604.26951v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
-    "url": "http://arxiv.org/abs/2604.25907v1",
+    "title": "Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport",
+    "url": "http://arxiv.org/abs/2604.26942v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
-    "url": "http://arxiv.org/abs/2604.25904v1",
+    "title": "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees",
+    "url": "http://arxiv.org/abs/2604.26932v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
-    "url": "http://arxiv.org/abs/2604.25903v1",
+    "title": "A Note on How to Remove the $\\ln\\ln T$ Term from the Squint Bound",
+    "url": "http://arxiv.org/abs/2604.26926v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Toward a Functional Geometric Algebra for Natural Language Semantics",
-    "url": "http://arxiv.org/abs/2604.25902v1",
+    "title": "On the Learning Curves of Revenue Maximization",
+    "url": "http://arxiv.org/abs/2604.26922v1",
     "type": "research"
   }
 ]
