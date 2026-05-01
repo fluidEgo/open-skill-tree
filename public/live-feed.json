@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
-    "url": "http://arxiv.org/abs/2604.26951v1",
+    "title": "Computing Equilibrium beyond Unilateral Deviation",
+    "url": "http://arxiv.org/abs/2604.28186v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport",
-    "url": "http://arxiv.org/abs/2604.26942v1",
+    "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+    "url": "http://arxiv.org/abs/2604.28182v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning Over-Relaxation Policies for ADMM with Convergence Guarantees",
-    "url": "http://arxiv.org/abs/2604.26932v1",
+    "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+    "url": "http://arxiv.org/abs/2604.28181v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Note on How to Remove the $\\ln\\ln T$ Term from the Squint Bound",
-    "url": "http://arxiv.org/abs/2604.26926v1",
+    "title": "An adaptive wavelet-based PINN for problems with localized high-magnitude source",
+    "url": "http://arxiv.org/abs/2604.28180v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "On the Learning Curves of Revenue Maximization",
-    "url": "http://arxiv.org/abs/2604.26922v1",
+    "title": "Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
+    "url": "http://arxiv.org/abs/2604.28176v1",
     "type": "research"
   }
 ]
