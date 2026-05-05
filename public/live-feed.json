@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
-    "url": "http://arxiv.org/abs/2605.00820v1",
+    "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+    "url": "http://arxiv.org/abs/2605.02888v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Generating Statistical Charts with Validation-Driven LLM Workflows",
-    "url": "http://arxiv.org/abs/2605.00800v1",
+    "title": "CityOS: Privacy Architecture for Urban Sensing",
+    "url": "http://arxiv.org/abs/2605.02886v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution",
-    "url": "http://arxiv.org/abs/2605.00798v1",
+    "title": "Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics",
+    "url": "http://arxiv.org/abs/2605.02884v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Make Your LVLM KV Cache More Lightweight",
-    "url": "http://arxiv.org/abs/2605.00789v1",
+    "title": "Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks",
+    "url": "http://arxiv.org/abs/2605.02871v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control",
-    "url": "http://arxiv.org/abs/2605.00787v1",
+    "title": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
+    "url": "http://arxiv.org/abs/2605.02867v1",
     "type": "research"
   }
 ]
