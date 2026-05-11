@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
-    "url": "http://arxiv.org/abs/2605.06667v1",
+    "title": "Normalizing Trajectory Models",
+    "url": "http://arxiv.org/abs/2605.08078v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-    "url": "http://arxiv.org/abs/2605.06665v1",
+    "title": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
+    "url": "http://arxiv.org/abs/2605.08075v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
-    "url": "http://arxiv.org/abs/2605.06660v1",
+    "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+    "url": "http://arxiv.org/abs/2605.08074v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
-    "url": "http://arxiv.org/abs/2605.06656v1",
+    "title": "A Note on Non-Negative $L_1$-Approximating Polynomials",
+    "url": "http://arxiv.org/abs/2605.08072v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
-    "url": "http://arxiv.org/abs/2605.06654v1",
+    "title": "Reinforcement Learning for Exponential Utility: Algorithms and Convergence in Discounted MDPs",
+    "url": "http://arxiv.org/abs/2605.08053v1",
     "type": "research"
   }
 ]
