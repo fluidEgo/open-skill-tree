@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Normalizing Trajectory Models",
-    "url": "http://arxiv.org/abs/2605.08078v1",
+    "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+    "url": "http://arxiv.org/abs/2605.12495v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
-    "url": "http://arxiv.org/abs/2605.08075v1",
+    "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
+    "url": "http://arxiv.org/abs/2605.12492v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
-    "url": "http://arxiv.org/abs/2605.08074v1",
+    "title": "Elastic Attention Cores for Scalable Vision Transformers",
+    "url": "http://arxiv.org/abs/2605.12491v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Note on Non-Negative $L_1$-Approximating Polynomials",
-    "url": "http://arxiv.org/abs/2605.08072v1",
+    "title": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
+    "url": "http://arxiv.org/abs/2605.12487v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reinforcement Learning for Exponential Utility: Algorithms and Convergence in Discounted MDPs",
-    "url": "http://arxiv.org/abs/2605.08053v1",
+    "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+    "url": "http://arxiv.org/abs/2605.12484v1",
     "type": "research"
   }
 ]
