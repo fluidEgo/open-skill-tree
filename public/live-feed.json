@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
-    "url": "http://arxiv.org/abs/2605.13841v1",
+    "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
+    "url": "http://arxiv.org/abs/2605.15196v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "What is Learnable in Valiant's Theory of the Learnable?",
-    "url": "http://arxiv.org/abs/2605.13840v1",
+    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+    "url": "http://arxiv.org/abs/2605.15188v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
-    "url": "http://arxiv.org/abs/2605.13838v1",
+    "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
+    "url": "http://arxiv.org/abs/2605.15183v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
-    "url": "http://arxiv.org/abs/2605.13834v1",
+    "title": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
+    "url": "http://arxiv.org/abs/2605.15179v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
-    "url": "http://arxiv.org/abs/2605.13833v1",
+    "title": "Evidential Reasoning Advances Interpretable Real-World Disease Screening",
+    "url": "http://arxiv.org/abs/2605.15171v1",
     "type": "research"
   }
 ]
