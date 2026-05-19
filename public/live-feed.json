@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
-    "url": "http://arxiv.org/abs/2605.15196v1",
+    "title": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
+    "url": "http://arxiv.org/abs/2605.18753v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
-    "url": "http://arxiv.org/abs/2605.15188v1",
+    "title": "A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability",
+    "url": "http://arxiv.org/abs/2605.18750v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
-    "url": "http://arxiv.org/abs/2605.15183v1",
+    "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
+    "url": "http://arxiv.org/abs/2605.18746v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
-    "url": "http://arxiv.org/abs/2605.15179v1",
+    "title": "SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate",
+    "url": "http://arxiv.org/abs/2605.18745v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Evidential Reasoning Advances Interpretable Real-World Disease Screening",
-    "url": "http://arxiv.org/abs/2605.15171v1",
+    "title": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
+    "url": "http://arxiv.org/abs/2605.18740v1",
     "type": "research"
   }
 ]
