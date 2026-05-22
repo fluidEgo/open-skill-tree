@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
-    "url": "http://arxiv.org/abs/2605.18753v1",
+    "title": "Tokenisation via Convex Relaxations",
+    "url": "http://arxiv.org/abs/2605.22821v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability",
-    "url": "http://arxiv.org/abs/2605.18750v1",
+    "title": "Integrable Elasticity via Neural Demand Potentials",
+    "url": "http://arxiv.org/abs/2605.22820v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
-    "url": "http://arxiv.org/abs/2605.18746v1",
+    "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+    "url": "http://arxiv.org/abs/2605.22817v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate",
-    "url": "http://arxiv.org/abs/2605.18745v1",
+    "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+    "url": "http://arxiv.org/abs/2605.22814v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
-    "url": "http://arxiv.org/abs/2605.18740v1",
+    "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+    "url": "http://arxiv.org/abs/2605.22800v1",
     "type": "research"
   }
 ]
