@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Tokenisation via Convex Relaxations",
-    "url": "http://arxiv.org/abs/2605.22821v1",
+    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+    "url": "http://arxiv.org/abs/2605.26112v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Integrable Elasticity via Neural Demand Potentials",
-    "url": "http://arxiv.org/abs/2605.22820v1",
+    "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+    "url": "http://arxiv.org/abs/2605.26111v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-    "url": "http://arxiv.org/abs/2605.22817v1",
+    "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+    "url": "http://arxiv.org/abs/2605.26110v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
-    "url": "http://arxiv.org/abs/2605.22814v1",
+    "title": "Looped Diffusion Language Models",
+    "url": "http://arxiv.org/abs/2605.26106v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
-    "url": "http://arxiv.org/abs/2605.22800v1",
+    "title": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
+    "url": "http://arxiv.org/abs/2605.26097v1",
     "type": "research"
   }
 ]
