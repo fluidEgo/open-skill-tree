@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-    "url": "http://arxiv.org/abs/2605.26112v1",
+    "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "url": "http://arxiv.org/abs/2605.27366v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-    "url": "http://arxiv.org/abs/2605.26111v1",
+    "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+    "url": "http://arxiv.org/abs/2605.27365v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-    "url": "http://arxiv.org/abs/2605.26110v1",
+    "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+    "url": "http://arxiv.org/abs/2605.27358v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Looped Diffusion Language Models",
-    "url": "http://arxiv.org/abs/2605.26106v1",
+    "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+    "url": "http://arxiv.org/abs/2605.27355v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
-    "url": "http://arxiv.org/abs/2605.26097v1",
+    "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+    "url": "http://arxiv.org/abs/2605.27354v1",
     "type": "research"
   }
 ]
