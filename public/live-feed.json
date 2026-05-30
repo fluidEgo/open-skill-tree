@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
-    "url": "http://arxiv.org/abs/2605.28819v1",
+    "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+    "url": "http://arxiv.org/abs/2605.30350v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
-    "url": "http://arxiv.org/abs/2605.28812v1",
+    "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+    "url": "http://arxiv.org/abs/2605.30348v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization",
-    "url": "http://arxiv.org/abs/2605.28810v1",
+    "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+    "url": "http://arxiv.org/abs/2605.30345v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
-    "url": "http://arxiv.org/abs/2605.28809v1",
+    "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+    "url": "http://arxiv.org/abs/2605.30337v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
-    "url": "http://arxiv.org/abs/2605.28805v1",
+    "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
+    "url": "http://arxiv.org/abs/2605.30336v1",
     "type": "research"
   }
 ]
