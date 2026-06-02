@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-    "url": "http://arxiv.org/abs/2605.30350v1",
+    "title": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
+    "url": "http://arxiv.org/abs/2606.02576v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-    "url": "http://arxiv.org/abs/2605.30348v1",
+    "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
+    "url": "http://arxiv.org/abs/2606.02563v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
-    "url": "http://arxiv.org/abs/2605.30345v1",
+    "title": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+    "url": "http://arxiv.org/abs/2606.02562v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
-    "url": "http://arxiv.org/abs/2605.30337v1",
+    "title": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation",
+    "url": "http://arxiv.org/abs/2606.02528v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
-    "url": "http://arxiv.org/abs/2605.30336v1",
+    "title": "Drifting Preference Optimization for One-Step Generative Models",
+    "url": "http://arxiv.org/abs/2606.02521v1",
     "type": "research"
   }
 ]
