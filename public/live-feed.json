@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
-    "url": "http://arxiv.org/abs/2606.02576v1",
+    "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+    "url": "http://arxiv.org/abs/2606.06494v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
-    "url": "http://arxiv.org/abs/2606.02563v1",
+    "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+    "url": "http://arxiv.org/abs/2606.06493v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
-    "url": "http://arxiv.org/abs/2606.02562v1",
+    "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+    "url": "http://arxiv.org/abs/2606.06486v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation",
-    "url": "http://arxiv.org/abs/2606.02528v1",
+    "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+    "url": "http://arxiv.org/abs/2606.06481v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Drifting Preference Optimization for One-Step Generative Models",
-    "url": "http://arxiv.org/abs/2606.02521v1",
+    "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+    "url": "http://arxiv.org/abs/2606.06480v1",
     "type": "research"
   }
 ]
