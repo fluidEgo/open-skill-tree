@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
-    "url": "http://arxiv.org/abs/2606.06494v1",
+    "title": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
+    "url": "http://arxiv.org/abs/2606.07500v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
-    "url": "http://arxiv.org/abs/2606.06493v1",
+    "title": "Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization",
+    "url": "http://arxiv.org/abs/2606.07496v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
-    "url": "http://arxiv.org/abs/2606.06486v1",
+    "title": "Second-Order Path Kernel Interpolation Formulas in Machine Learning",
+    "url": "http://arxiv.org/abs/2606.07495v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
-    "url": "http://arxiv.org/abs/2606.06481v1",
+    "title": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
+    "url": "http://arxiv.org/abs/2606.07492v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
-    "url": "http://arxiv.org/abs/2606.06480v1",
+    "title": "Twelve quick tips for designing AI-driven HPC workflows",
+    "url": "http://arxiv.org/abs/2606.07491v1",
     "type": "research"
   }
 ]
