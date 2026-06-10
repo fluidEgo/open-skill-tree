@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
-    "url": "http://arxiv.org/abs/2606.09825v1",
+    "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+    "url": "http://arxiv.org/abs/2606.11190v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rethinking the Divergence Regularization in LLM RL",
-    "url": "http://arxiv.org/abs/2606.09821v1",
+    "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+    "url": "http://arxiv.org/abs/2606.11189v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
-    "url": "http://arxiv.org/abs/2606.09820v1",
+    "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+    "url": "http://arxiv.org/abs/2606.11182v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Topological Neural Operators",
-    "url": "http://arxiv.org/abs/2606.09806v1",
+    "title": "The Role of Feedback Alignment in Self-Distillation",
+    "url": "http://arxiv.org/abs/2606.11173v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Echo-Memory: A Controlled Study of Memory in Action World Models",
-    "url": "http://arxiv.org/abs/2606.09803v1",
+    "title": "Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+    "url": "http://arxiv.org/abs/2606.11172v1",
     "type": "research"
   }
 ]
