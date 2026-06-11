@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
-    "url": "http://arxiv.org/abs/2606.11190v1",
+    "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
+    "url": "http://arxiv.org/abs/2606.12411v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
-    "url": "http://arxiv.org/abs/2606.11189v1",
+    "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+    "url": "http://arxiv.org/abs/2606.12406v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
-    "url": "http://arxiv.org/abs/2606.11182v1",
+    "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
+    "url": "http://arxiv.org/abs/2606.12397v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Role of Feedback Alignment in Self-Distillation",
-    "url": "http://arxiv.org/abs/2606.11173v1",
+    "title": "ATLAS: Active Theory Learning for Automated Science",
+    "url": "http://arxiv.org/abs/2606.12386v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Predicting Future Behaviors in Reasoning Models Enables Better Steering",
-    "url": "http://arxiv.org/abs/2606.11172v1",
+    "title": "APPO: Agentic Procedural Policy Optimization",
+    "url": "http://arxiv.org/abs/2606.12384v1",
     "type": "research"
   }
 ]
