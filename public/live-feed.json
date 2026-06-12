@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
-    "url": "http://arxiv.org/abs/2606.12411v1",
+    "title": "Mana: Dexterous Manipulation of Articulated Tools",
+    "url": "http://arxiv.org/abs/2606.13677v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
-    "url": "http://arxiv.org/abs/2606.12406v1",
+    "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+    "url": "http://arxiv.org/abs/2606.13671v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-    "url": "http://arxiv.org/abs/2606.12397v1",
+    "title": "Specifying Hardware Communication as Programs",
+    "url": "http://arxiv.org/abs/2606.13659v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ATLAS: Active Theory Learning for Automated Science",
-    "url": "http://arxiv.org/abs/2606.12386v1",
+    "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
+    "url": "http://arxiv.org/abs/2606.13657v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "APPO: Agentic Procedural Policy Optimization",
-    "url": "http://arxiv.org/abs/2606.12384v1",
+    "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+    "url": "http://arxiv.org/abs/2606.13649v1",
     "type": "research"
   }
 ]
