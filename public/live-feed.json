@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Mana: Dexterous Manipulation of Articulated Tools",
-    "url": "http://arxiv.org/abs/2606.13677v1",
+    "title": "Gaze Heads: How VLMs Look at What They Describe",
+    "url": "http://arxiv.org/abs/2606.14703v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
-    "url": "http://arxiv.org/abs/2606.13671v1",
+    "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+    "url": "http://arxiv.org/abs/2606.14695v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Specifying Hardware Communication as Programs",
-    "url": "http://arxiv.org/abs/2606.13659v1",
+    "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
+    "url": "http://arxiv.org/abs/2606.14690v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation",
-    "url": "http://arxiv.org/abs/2606.13657v1",
+    "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+    "url": "http://arxiv.org/abs/2606.14688v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
-    "url": "http://arxiv.org/abs/2606.13649v1",
+    "title": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
+    "url": "http://arxiv.org/abs/2606.14684v1",
     "type": "research"
   }
 ]
