@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Gaze Heads: How VLMs Look at What They Describe",
-    "url": "http://arxiv.org/abs/2606.14703v1",
+    "title": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+    "url": "http://arxiv.org/abs/2606.17048v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
-    "url": "http://arxiv.org/abs/2606.14695v1",
+    "title": "Geometric Action Model for Robot Policy Learning",
+    "url": "http://arxiv.org/abs/2606.17046v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-    "url": "http://arxiv.org/abs/2606.14690v1",
+    "title": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+    "url": "http://arxiv.org/abs/2606.17043v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
-    "url": "http://arxiv.org/abs/2606.14688v1",
+    "title": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
+    "url": "http://arxiv.org/abs/2606.17037v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
-    "url": "http://arxiv.org/abs/2606.14684v1",
+    "title": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
+    "url": "http://arxiv.org/abs/2606.17035v1",
     "type": "research"
   }
 ]
