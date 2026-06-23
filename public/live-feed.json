@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "How Transparent is DiffusionGemma?",
-    "url": "http://arxiv.org/abs/2606.20560v1",
+    "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+    "url": "http://arxiv.org/abs/2606.23689v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
-    "url": "http://arxiv.org/abs/2606.20559v1",
+    "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+    "url": "http://arxiv.org/abs/2606.23680v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Optimal Deterministic Multicalibration and Omniprediction",
-    "url": "http://arxiv.org/abs/2606.20557v1",
+    "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+    "url": "http://arxiv.org/abs/2606.23679v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
-    "url": "http://arxiv.org/abs/2606.20547v1",
+    "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+    "url": "http://arxiv.org/abs/2606.23676v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Predictability as a Fine-Grained Measure for Privacy",
-    "url": "http://arxiv.org/abs/2606.20546v1",
+    "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
+    "url": "http://arxiv.org/abs/2606.23673v1",
     "type": "research"
   }
 ]
