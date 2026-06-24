@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
-    "url": "http://arxiv.org/abs/2606.23689v1",
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "url": "http://arxiv.org/abs/2606.24884v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-    "url": "http://arxiv.org/abs/2606.23680v1",
+    "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+    "url": "http://arxiv.org/abs/2606.24879v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-    "url": "http://arxiv.org/abs/2606.23679v1",
+    "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
+    "url": "http://arxiv.org/abs/2606.24851v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-    "url": "http://arxiv.org/abs/2606.23676v1",
+    "title": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
+    "url": "http://arxiv.org/abs/2606.24825v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
-    "url": "http://arxiv.org/abs/2606.23673v1",
+    "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+    "url": "http://arxiv.org/abs/2606.24790v1",
     "type": "research"
   }
 ]
