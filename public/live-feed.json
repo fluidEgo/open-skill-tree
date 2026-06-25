@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-    "url": "http://arxiv.org/abs/2606.24884v1",
+    "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+    "url": "http://arxiv.org/abs/2606.26094v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-    "url": "http://arxiv.org/abs/2606.24879v1",
+    "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+    "url": "http://arxiv.org/abs/2606.26091v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
-    "url": "http://arxiv.org/abs/2606.24851v1",
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+    "url": "http://arxiv.org/abs/2606.26080v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
-    "url": "http://arxiv.org/abs/2606.24825v1",
+    "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+    "url": "http://arxiv.org/abs/2606.26079v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
-    "url": "http://arxiv.org/abs/2606.24790v1",
+    "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+    "url": "http://arxiv.org/abs/2606.26071v1",
     "type": "research"
   }
 ]
