@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
-    "url": "http://arxiv.org/abs/2606.26094v1",
+    "title": "DanceOPD: On-Policy Generative Field Distillation",
+    "url": "http://arxiv.org/abs/2606.27377v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
-    "url": "http://arxiv.org/abs/2606.26091v1",
+    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+    "url": "http://arxiv.org/abs/2606.27369v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
-    "url": "http://arxiv.org/abs/2606.26080v1",
+    "title": "Autoregressive Boltzmann Generators",
+    "url": "http://arxiv.org/abs/2606.27361v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
-    "url": "http://arxiv.org/abs/2606.26079v1",
+    "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+    "url": "http://arxiv.org/abs/2606.27359v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
-    "url": "http://arxiv.org/abs/2606.26071v1",
+    "title": "Error-Conditioned Neural Solvers",
+    "url": "http://arxiv.org/abs/2606.27354v1",
     "type": "research"
   }
 ]
