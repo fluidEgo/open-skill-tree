@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "DanceOPD: On-Policy Generative Field Distillation",
-    "url": "http://arxiv.org/abs/2606.27377v1",
+    "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+    "url": "http://arxiv.org/abs/2606.28323v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
-    "url": "http://arxiv.org/abs/2606.27369v1",
+    "title": "Surprises in Proper Positive-Only Learning",
+    "url": "http://arxiv.org/abs/2606.28309v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Autoregressive Boltzmann Generators",
-    "url": "http://arxiv.org/abs/2606.27361v1",
+    "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+    "url": "http://arxiv.org/abs/2606.28308v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
-    "url": "http://arxiv.org/abs/2606.27359v1",
+    "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
+    "url": "http://arxiv.org/abs/2606.28307v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Error-Conditioned Neural Solvers",
-    "url": "http://arxiv.org/abs/2606.27354v1",
+    "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
+    "url": "http://arxiv.org/abs/2606.28301v1",
     "type": "research"
   }
 ]
