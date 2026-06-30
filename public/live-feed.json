@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-    "url": "http://arxiv.org/abs/2606.28323v1",
+    "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+    "url": "http://arxiv.org/abs/2606.30634v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Surprises in Proper Positive-Only Learning",
-    "url": "http://arxiv.org/abs/2606.28309v1",
+    "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+    "url": "http://arxiv.org/abs/2606.30627v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
-    "url": "http://arxiv.org/abs/2606.28308v1",
+    "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+    "url": "http://arxiv.org/abs/2606.30625v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
-    "url": "http://arxiv.org/abs/2606.28307v1",
+    "title": "C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders",
+    "url": "http://arxiv.org/abs/2606.30609v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
-    "url": "http://arxiv.org/abs/2606.28301v1",
+    "title": "Wireless Backdoor Attack and Defense for Semantic Communications over Multiple Access Channel",
+    "url": "http://arxiv.org/abs/2606.30595v1",
     "type": "research"
   }
 ]
