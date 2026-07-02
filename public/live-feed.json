@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-    "url": "http://arxiv.org/abs/2606.32038v1",
+    "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+    "url": "http://arxiv.org/abs/2607.01232v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-    "url": "http://arxiv.org/abs/2606.32034v1",
+    "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+    "url": "http://arxiv.org/abs/2607.01225v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Freeform Preference Learning for Robotic Manipulation",
-    "url": "http://arxiv.org/abs/2606.32027v1",
+    "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+    "url": "http://arxiv.org/abs/2607.01223v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AdaJEPA: An Adaptive Latent World Model",
-    "url": "http://arxiv.org/abs/2606.32026v1",
+    "title": "The State-Prediction Separation Hypothesis",
+    "url": "http://arxiv.org/abs/2607.01218v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
-    "url": "http://arxiv.org/abs/2606.32022v1",
+    "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+    "url": "http://arxiv.org/abs/2607.01208v1",
     "type": "research"
   }
 ]
