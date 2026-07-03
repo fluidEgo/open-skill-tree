@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
-    "url": "http://arxiv.org/abs/2607.01232v1",
+    "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+    "url": "http://arxiv.org/abs/2607.02513v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
-    "url": "http://arxiv.org/abs/2607.01225v1",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "url": "http://arxiv.org/abs/2607.02512v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
-    "url": "http://arxiv.org/abs/2607.01223v1",
+    "title": "Online Safety Monitoring for LLMs",
+    "url": "http://arxiv.org/abs/2607.02510v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The State-Prediction Separation Hypothesis",
-    "url": "http://arxiv.org/abs/2607.01218v1",
+    "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+    "url": "http://arxiv.org/abs/2607.02507v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
-    "url": "http://arxiv.org/abs/2607.01208v1",
+    "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+    "url": "http://arxiv.org/abs/2607.02502v1",
     "type": "research"
   }
 ]
