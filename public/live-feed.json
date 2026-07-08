@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-    "url": "http://arxiv.org/abs/2607.05396v1",
+    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+    "url": "http://arxiv.org/abs/2607.06565v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-    "url": "http://arxiv.org/abs/2607.05394v1",
+    "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+    "url": "http://arxiv.org/abs/2607.06546v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-    "url": "http://arxiv.org/abs/2607.05393v1",
+    "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
+    "url": "http://arxiv.org/abs/2607.06532v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-    "url": "http://arxiv.org/abs/2607.05391v1",
+    "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+    "url": "http://arxiv.org/abs/2607.06531v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "What Does a Discrete Diffusion Model Learn?",
-    "url": "http://arxiv.org/abs/2607.05381v1",
+    "title": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
+    "url": "http://arxiv.org/abs/2607.06497v1",
     "type": "research"
   }
 ]
