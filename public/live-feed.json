@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-    "url": "http://arxiv.org/abs/2607.06565v1",
+    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+    "url": "http://arxiv.org/abs/2607.07708v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
-    "url": "http://arxiv.org/abs/2607.06546v1",
+    "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+    "url": "http://arxiv.org/abs/2607.07707v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
-    "url": "http://arxiv.org/abs/2607.06532v1",
+    "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+    "url": "http://arxiv.org/abs/2607.07706v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
-    "url": "http://arxiv.org/abs/2607.06531v1",
+    "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+    "url": "http://arxiv.org/abs/2607.07693v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "EntroPath: Maximum Entropy Path Ensemble Embedding for Manifold Learning",
-    "url": "http://arxiv.org/abs/2607.06497v1",
+    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+    "url": "http://arxiv.org/abs/2607.07690v1",
     "type": "research"
   }
 ]
