@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
-    "url": "http://arxiv.org/abs/2607.07708v1",
+    "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
+    "url": "http://arxiv.org/abs/2607.08757v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
-    "url": "http://arxiv.org/abs/2607.07707v1",
+    "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+    "url": "http://arxiv.org/abs/2607.08756v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
-    "url": "http://arxiv.org/abs/2607.07706v1",
+    "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+    "url": "http://arxiv.org/abs/2607.08754v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
-    "url": "http://arxiv.org/abs/2607.07693v1",
+    "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+    "url": "http://arxiv.org/abs/2607.08746v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
-    "url": "http://arxiv.org/abs/2607.07690v1",
+    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+    "url": "http://arxiv.org/abs/2607.08741v1",
     "type": "research"
   }
 ]
