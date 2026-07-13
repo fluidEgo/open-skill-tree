@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
-    "url": "http://arxiv.org/abs/2607.08757v1",
+    "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+    "url": "http://arxiv.org/abs/2607.09662v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
-    "url": "http://arxiv.org/abs/2607.08756v1",
+    "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
+    "url": "http://arxiv.org/abs/2607.09645v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
-    "url": "http://arxiv.org/abs/2607.08754v1",
+    "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
+    "url": "http://arxiv.org/abs/2607.09641v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
-    "url": "http://arxiv.org/abs/2607.08746v1",
+    "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+    "url": "http://arxiv.org/abs/2607.09616v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-    "url": "http://arxiv.org/abs/2607.08741v1",
+    "title": "Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics",
+    "url": "http://arxiv.org/abs/2607.09582v1",
     "type": "research"
   }
 ]
