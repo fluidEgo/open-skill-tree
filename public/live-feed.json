@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
-    "url": "http://arxiv.org/abs/2607.11883v1",
+    "title": "The Seriality Gap in Video Diffusion Models",
+    "url": "http://arxiv.org/abs/2607.13031v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
-    "url": "http://arxiv.org/abs/2607.11875v1",
+    "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+    "url": "http://arxiv.org/abs/2607.13028v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
-    "url": "http://arxiv.org/abs/2607.11874v1",
+    "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+    "url": "http://arxiv.org/abs/2607.13022v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
-    "url": "http://arxiv.org/abs/2607.11873v1",
+    "title": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
+    "url": "http://arxiv.org/abs/2607.13006v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
-    "url": "http://arxiv.org/abs/2607.11871v1",
+    "title": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
+    "url": "http://arxiv.org/abs/2607.13003v1",
     "type": "research"
   }
 ]
