@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Leveraging unlabelled data for generalizable neural population decoding",
-    "url": "http://arxiv.org/abs/2607.14086v1",
+    "title": "RoboTTT: Context Scaling for Robot Policies",
+    "url": "http://arxiv.org/abs/2607.15275v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Linear Independent Component Analysis via Optimal Transport",
-    "url": "http://arxiv.org/abs/2607.14081v1",
+    "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+    "url": "http://arxiv.org/abs/2607.15273v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
-    "url": "http://arxiv.org/abs/2607.14072v1",
+    "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+    "url": "http://arxiv.org/abs/2607.15271v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
-    "url": "http://arxiv.org/abs/2607.14070v1",
+    "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+    "url": "http://arxiv.org/abs/2607.15258v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
-    "url": "http://arxiv.org/abs/2607.14041v1",
+    "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+    "url": "http://arxiv.org/abs/2607.15242v1",
     "type": "research"
   }
 ]
