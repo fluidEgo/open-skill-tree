@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "RoboTTT: Context Scaling for Robot Policies",
-    "url": "http://arxiv.org/abs/2607.15275v1",
+    "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+    "url": "http://arxiv.org/abs/2607.16184v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-    "url": "http://arxiv.org/abs/2607.15273v1",
+    "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+    "url": "http://arxiv.org/abs/2607.16183v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-    "url": "http://arxiv.org/abs/2607.15271v1",
+    "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+    "url": "http://arxiv.org/abs/2607.16178v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
-    "url": "http://arxiv.org/abs/2607.15258v1",
+    "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+    "url": "http://arxiv.org/abs/2607.16177v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
-    "url": "http://arxiv.org/abs/2607.15242v1",
+    "title": "When Does Muon Help Agentic Reinforcement Learning?",
+    "url": "http://arxiv.org/abs/2607.16169v1",
     "type": "research"
   }
 ]
