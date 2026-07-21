@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-    "url": "http://arxiv.org/abs/2607.16184v1",
+    "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+    "url": "http://arxiv.org/abs/2607.18237v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-    "url": "http://arxiv.org/abs/2607.16183v1",
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "url": "http://arxiv.org/abs/2607.18236v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
-    "url": "http://arxiv.org/abs/2607.16178v1",
+    "title": "Causal Discovery on Irregular Time Series",
+    "url": "http://arxiv.org/abs/2607.18226v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
-    "url": "http://arxiv.org/abs/2607.16177v1",
+    "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+    "url": "http://arxiv.org/abs/2607.18225v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "When Does Muon Help Agentic Reinforcement Learning?",
-    "url": "http://arxiv.org/abs/2607.16169v1",
+    "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
+    "url": "http://arxiv.org/abs/2607.18209v1",
     "type": "research"
   }
 ]
