@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
-    "url": "http://arxiv.org/abs/2607.19335v1",
+    "title": "Lipschitzian SLLNs for random functions",
+    "url": "http://arxiv.org/abs/2607.20411v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
-    "url": "http://arxiv.org/abs/2607.19334v1",
+    "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+    "url": "http://arxiv.org/abs/2607.20399v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
-    "url": "http://arxiv.org/abs/2607.19333v1",
+    "title": "PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs",
+    "url": "http://arxiv.org/abs/2607.20378v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
-    "url": "http://arxiv.org/abs/2607.19332v1",
+    "title": "Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations",
+    "url": "http://arxiv.org/abs/2607.20377v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ISO: An RLVR-Native Optimization Stack",
-    "url": "http://arxiv.org/abs/2607.19331v1",
+    "title": "Online Variance Reduction for Domain Adaptation on Streaming Data",
+    "url": "http://arxiv.org/abs/2607.20374v1",
     "type": "research"
   }
 ]
