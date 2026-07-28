@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-    "url": "http://arxiv.org/abs/2607.21595v1",
+    "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+    "url": "http://arxiv.org/abs/2607.24741v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Expanding Flow Maps",
-    "url": "http://arxiv.org/abs/2607.21585v1",
+    "title": "Learning Distributions from Multiple Data Providers",
+    "url": "http://arxiv.org/abs/2607.24732v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-    "url": "http://arxiv.org/abs/2607.21579v1",
+    "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+    "url": "http://arxiv.org/abs/2607.24731v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Synthetic data generation framework for quality control automation in gravure printing",
-    "url": "http://arxiv.org/abs/2607.21577v1",
+    "title": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+    "url": "http://arxiv.org/abs/2607.24726v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-    "url": "http://arxiv.org/abs/2607.21573v1",
+    "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+    "url": "http://arxiv.org/abs/2607.24720v1",
     "type": "research"
   }
 ]
