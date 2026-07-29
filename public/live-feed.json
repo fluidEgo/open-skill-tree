@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
-    "url": "http://arxiv.org/abs/2607.24741v1",
+    "title": "$\u03c0\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+    "url": "http://arxiv.org/abs/2607.26055v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning Distributions from Multiple Data Providers",
-    "url": "http://arxiv.org/abs/2607.24732v1",
+    "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+    "url": "http://arxiv.org/abs/2607.26052v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
-    "url": "http://arxiv.org/abs/2607.24731v1",
+    "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
+    "url": "http://arxiv.org/abs/2607.26043v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
-    "url": "http://arxiv.org/abs/2607.24726v1",
+    "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+    "url": "http://arxiv.org/abs/2607.26042v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
-    "url": "http://arxiv.org/abs/2607.24720v1",
+    "title": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
+    "url": "http://arxiv.org/abs/2607.26040v1",
     "type": "research"
   }
 ]
