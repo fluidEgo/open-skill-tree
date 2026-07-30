@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "$\u03c0\\mathbf{R}^2$: Reactive Real-time Flow Policies",
-    "url": "http://arxiv.org/abs/2607.26055v1",
+    "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+    "url": "http://arxiv.org/abs/2607.27203v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
-    "url": "http://arxiv.org/abs/2607.26052v1",
+    "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
+    "url": "http://arxiv.org/abs/2607.27196v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
-    "url": "http://arxiv.org/abs/2607.26043v1",
+    "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+    "url": "http://arxiv.org/abs/2607.27191v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
-    "url": "http://arxiv.org/abs/2607.26042v1",
+    "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+    "url": "http://arxiv.org/abs/2607.27188v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
-    "url": "http://arxiv.org/abs/2607.26040v1",
+    "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
+    "url": "http://arxiv.org/abs/2607.27169v1",
     "type": "research"
   }
 ]
