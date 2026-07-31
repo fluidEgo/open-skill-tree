@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-    "url": "http://arxiv.org/abs/2607.27203v1",
+    "title": "Learning to Trace Seiberg Dualities",
+    "url": "http://arxiv.org/abs/2607.28628v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
-    "url": "http://arxiv.org/abs/2607.27196v1",
+    "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+    "url": "http://arxiv.org/abs/2607.28627v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-    "url": "http://arxiv.org/abs/2607.27191v1",
+    "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+    "url": "http://arxiv.org/abs/2607.28618v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
-    "url": "http://arxiv.org/abs/2607.27188v1",
+    "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+    "url": "http://arxiv.org/abs/2607.28608v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
-    "url": "http://arxiv.org/abs/2607.27169v1",
+    "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+    "url": "http://arxiv.org/abs/2607.28591v1",
     "type": "research"
   }
 ]
