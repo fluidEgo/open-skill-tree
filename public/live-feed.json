@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Learning to Trace Seiberg Dualities",
-    "url": "http://arxiv.org/abs/2607.28628v1",
+    "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+    "url": "http://arxiv.org/abs/2607.29675v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-    "url": "http://arxiv.org/abs/2607.28627v1",
+    "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+    "url": "http://arxiv.org/abs/2607.29674v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-    "url": "http://arxiv.org/abs/2607.28618v1",
+    "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+    "url": "http://arxiv.org/abs/2607.29665v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
-    "url": "http://arxiv.org/abs/2607.28608v1",
+    "title": "GQ-FSL: Green Quantized Federated Split Learning",
+    "url": "http://arxiv.org/abs/2607.29659v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
-    "url": "http://arxiv.org/abs/2607.28591v1",
+    "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+    "url": "http://arxiv.org/abs/2607.29621v1",
     "type": "research"
   }
 ]
