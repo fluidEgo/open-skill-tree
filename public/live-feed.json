@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
-    "url": "http://arxiv.org/abs/2608.02595v1",
+    "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+    "url": "http://arxiv.org/abs/2608.04001v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Condition-Number Barrier in Sparse Least Squares",
-    "url": "http://arxiv.org/abs/2608.02588v1",
+    "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation",
+    "url": "http://arxiv.org/abs/2608.03990v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
-    "url": "http://arxiv.org/abs/2608.02585v1",
+    "title": "Information-Geometric Forward Policy Training in GFlowNets",
+    "url": "http://arxiv.org/abs/2608.03967v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
-    "url": "http://arxiv.org/abs/2608.02578v1",
+    "title": "Muon Meets Mamba: Spectral Optimization for State Space Models",
+    "url": "http://arxiv.org/abs/2608.03941v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
-    "url": "http://arxiv.org/abs/2608.02576v1",
+    "title": "Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility",
+    "url": "http://arxiv.org/abs/2608.03930v1",
     "type": "research"
   }
 ]
