@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-    "url": "http://arxiv.org/abs/2608.04001v1",
+    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "url": "http://arxiv.org/abs/2608.05141v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation",
-    "url": "http://arxiv.org/abs/2608.03990v1",
+    "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+    "url": "http://arxiv.org/abs/2608.05139v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Information-Geometric Forward Policy Training in GFlowNets",
-    "url": "http://arxiv.org/abs/2608.03967v1",
+    "title": "The Loss Does Not See the Basis, but Adam Does",
+    "url": "http://arxiv.org/abs/2608.05136v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Muon Meets Mamba: Spectral Optimization for State Space Models",
-    "url": "http://arxiv.org/abs/2608.03941v1",
+    "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+    "url": "http://arxiv.org/abs/2608.05132v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility",
-    "url": "http://arxiv.org/abs/2608.03930v1",
+    "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+    "url": "http://arxiv.org/abs/2608.05127v1",
     "type": "research"
   }
 ]
