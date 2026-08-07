@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-    "url": "http://arxiv.org/abs/2608.05141v1",
+    "title": "Learning When to Trust via Selective Context Preference Optimization",
+    "url": "http://arxiv.org/abs/2608.06377v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
-    "url": "http://arxiv.org/abs/2608.05139v1",
+    "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+    "url": "http://arxiv.org/abs/2608.06366v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Loss Does Not See the Basis, but Adam Does",
-    "url": "http://arxiv.org/abs/2608.05136v1",
+    "title": "An Optimal Agnostic PAC Algorithm",
+    "url": "http://arxiv.org/abs/2608.06363v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
-    "url": "http://arxiv.org/abs/2608.05132v1",
+    "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+    "url": "http://arxiv.org/abs/2608.06362v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
-    "url": "http://arxiv.org/abs/2608.05127v1",
+    "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+    "url": "http://arxiv.org/abs/2608.06352v1",
     "type": "research"
   }
 ]
