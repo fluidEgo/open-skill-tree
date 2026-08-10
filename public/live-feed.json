@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Learning When to Trust via Selective Context Preference Optimization",
-    "url": "http://arxiv.org/abs/2608.06377v1",
+    "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+    "url": "http://arxiv.org/abs/2608.07463v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-    "url": "http://arxiv.org/abs/2608.06366v1",
+    "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+    "url": "http://arxiv.org/abs/2608.07458v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "An Optimal Agnostic PAC Algorithm",
-    "url": "http://arxiv.org/abs/2608.06363v1",
+    "title": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
+    "url": "http://arxiv.org/abs/2608.07444v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-    "url": "http://arxiv.org/abs/2608.06362v1",
+    "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
+    "url": "http://arxiv.org/abs/2608.07436v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-    "url": "http://arxiv.org/abs/2608.06352v1",
+    "title": "Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control",
+    "url": "http://arxiv.org/abs/2608.07433v1",
     "type": "research"
   }
 ]
