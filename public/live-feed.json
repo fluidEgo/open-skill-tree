@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-    "url": "http://arxiv.org/abs/2608.11200v1",
+    "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+    "url": "http://arxiv.org/abs/2608.12307v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-    "url": "http://arxiv.org/abs/2608.11197v1",
+    "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+    "url": "http://arxiv.org/abs/2608.12306v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "How to Verify Consistency of Probabilistic Claims",
-    "url": "http://arxiv.org/abs/2608.11181v1",
+    "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+    "url": "http://arxiv.org/abs/2608.12302v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
-    "url": "http://arxiv.org/abs/2608.11173v1",
+    "title": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
+    "url": "http://arxiv.org/abs/2608.12271v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
-    "url": "http://arxiv.org/abs/2608.11167v1",
+    "title": "Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting",
+    "url": "http://arxiv.org/abs/2608.12259v1",
     "type": "research"
   }
 ]
