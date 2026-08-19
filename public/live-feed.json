@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Q-based Variational Inverse Reinforcement Learning",
-    "url": "http://arxiv.org/abs/2608.16888v1",
+    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "url": "http://arxiv.org/abs/2608.18066v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-    "url": "http://arxiv.org/abs/2608.16884v1",
+    "title": "TokEval: A Tokenizer Evaluation Suite",
+    "url": "http://arxiv.org/abs/2608.18062v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
-    "url": "http://arxiv.org/abs/2608.16878v1",
+    "title": "The concentration game: Bayesian updating, regret, and information",
+    "url": "http://arxiv.org/abs/2608.18061v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
-    "url": "http://arxiv.org/abs/2608.16876v1",
+    "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+    "url": "http://arxiv.org/abs/2608.18055v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
-    "url": "http://arxiv.org/abs/2608.16873v1",
+    "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+    "url": "http://arxiv.org/abs/2608.18040v1",
     "type": "research"
   }
 ]
