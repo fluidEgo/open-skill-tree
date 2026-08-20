@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
-    "url": "http://arxiv.org/abs/2608.18066v1",
+    "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
+    "url": "http://arxiv.org/abs/2608.19181v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "TokEval: A Tokenizer Evaluation Suite",
-    "url": "http://arxiv.org/abs/2608.18062v1",
+    "title": "L\u00e9vy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
+    "url": "http://arxiv.org/abs/2608.19171v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The concentration game: Bayesian updating, regret, and information",
-    "url": "http://arxiv.org/abs/2608.18061v1",
+    "title": "Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training",
+    "url": "http://arxiv.org/abs/2608.19168v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
-    "url": "http://arxiv.org/abs/2608.18055v1",
+    "title": "Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions",
+    "url": "http://arxiv.org/abs/2608.19151v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
-    "url": "http://arxiv.org/abs/2608.18040v1",
+    "title": "Geometric Iterative Retrieval for Neural Audio Codec Resynthesis",
+    "url": "http://arxiv.org/abs/2608.19141v1",
     "type": "research"
   }
 ]
