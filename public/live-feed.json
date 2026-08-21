@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
-    "url": "http://arxiv.org/abs/2608.19181v1",
+    "title": "Information on trajectories: martingales and random times",
+    "url": "http://arxiv.org/abs/2608.20337v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "L\u00e9vy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
-    "url": "http://arxiv.org/abs/2608.19171v1",
+    "title": "$TCP_\u03b1$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+    "url": "http://arxiv.org/abs/2608.20326v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training",
-    "url": "http://arxiv.org/abs/2608.19168v1",
+    "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+    "url": "http://arxiv.org/abs/2608.20322v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions",
-    "url": "http://arxiv.org/abs/2608.19151v1",
+    "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+    "url": "http://arxiv.org/abs/2608.20318v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Geometric Iterative Retrieval for Neural Audio Codec Resynthesis",
-    "url": "http://arxiv.org/abs/2608.19141v1",
+    "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+    "url": "http://arxiv.org/abs/2608.20315v1",
     "type": "research"
   }
 ]
