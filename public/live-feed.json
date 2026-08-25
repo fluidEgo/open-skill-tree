@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Primal Acceleration of Newton's Method",
-    "url": "http://arxiv.org/abs/2608.21359v1",
+    "title": "How to Train a Critic Stably and Efficiently",
+    "url": "http://arxiv.org/abs/2608.23566v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AI with Authority, from Application to Silicon",
-    "url": "http://arxiv.org/abs/2608.21356v1",
+    "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+    "url": "http://arxiv.org/abs/2608.23554v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
-    "url": "http://arxiv.org/abs/2608.21349v1",
+    "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+    "url": "http://arxiv.org/abs/2608.23551v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Truthful Calibration Measures for Sequential Prediction",
-    "url": "http://arxiv.org/abs/2608.21348v1",
+    "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+    "url": "http://arxiv.org/abs/2608.23547v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
-    "url": "http://arxiv.org/abs/2608.21345v1",
+    "title": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
+    "url": "http://arxiv.org/abs/2608.23546v1",
     "type": "research"
   }
 ]
