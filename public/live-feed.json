@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
-    "url": "http://arxiv.org/abs/2608.24881v1",
+    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "url": "http://arxiv.org/abs/2608.26105v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
-    "url": "http://arxiv.org/abs/2608.24865v1",
+    "title": "Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines",
+    "url": "http://arxiv.org/abs/2608.26100v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
-    "url": "http://arxiv.org/abs/2608.24859v1",
+    "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "url": "http://arxiv.org/abs/2608.26094v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
-    "url": "http://arxiv.org/abs/2608.24858v1",
+    "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+    "url": "http://arxiv.org/abs/2608.26093v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
-    "url": "http://arxiv.org/abs/2608.24845v1",
+    "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+    "url": "http://arxiv.org/abs/2608.26090v1",
     "type": "research"
   }
 ]
