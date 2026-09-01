@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
-    "url": "http://arxiv.org/abs/2608.28589v1",
+    "title": "Constant Individual Regret in General Games",
+    "url": "http://arxiv.org/abs/2608.31166v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
-    "url": "http://arxiv.org/abs/2608.28578v1",
+    "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+    "url": "http://arxiv.org/abs/2608.31157v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
-    "url": "http://arxiv.org/abs/2608.28576v1",
+    "title": "Implementing neural network mixed-effects models in Template Model Builder (TMB)",
+    "url": "http://arxiv.org/abs/2608.31133v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
-    "url": "http://arxiv.org/abs/2608.28566v1",
+    "title": "On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions",
+    "url": "http://arxiv.org/abs/2608.31120v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
-    "url": "http://arxiv.org/abs/2608.28564v1",
+    "title": "\"Train classical, deploy quantum\" requires rethinking generalization",
+    "url": "http://arxiv.org/abs/2608.31117v1",
     "type": "research"
   }
 ]
