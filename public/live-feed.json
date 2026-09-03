@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-    "url": "http://arxiv.org/abs/2609.01604v1",
+    "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+    "url": "http://arxiv.org/abs/2609.02887v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-    "url": "http://arxiv.org/abs/2609.01596v1",
+    "title": "Discriminative World Models for Web Agents",
+    "url": "http://arxiv.org/abs/2609.02885v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
-    "url": "http://arxiv.org/abs/2609.01587v1",
+    "title": "Graph Machine: Towards Better Pretraining via Edges",
+    "url": "http://arxiv.org/abs/2609.02881v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
-    "url": "http://arxiv.org/abs/2609.01573v1",
+    "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+    "url": "http://arxiv.org/abs/2609.02876v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
-    "url": "http://arxiv.org/abs/2609.01567v1",
+    "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
+    "url": "http://arxiv.org/abs/2609.02855v1",
     "type": "research"
   }
 ]
