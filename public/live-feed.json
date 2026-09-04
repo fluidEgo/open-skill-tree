@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-    "url": "http://arxiv.org/abs/2609.02887v1",
+    "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+    "url": "http://arxiv.org/abs/2609.04199v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Discriminative World Models for Web Agents",
-    "url": "http://arxiv.org/abs/2609.02885v1",
+    "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+    "url": "http://arxiv.org/abs/2609.04198v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Graph Machine: Towards Better Pretraining via Edges",
-    "url": "http://arxiv.org/abs/2609.02881v1",
+    "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+    "url": "http://arxiv.org/abs/2609.04194v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-    "url": "http://arxiv.org/abs/2609.02876v1",
+    "title": "Robust PAC Learning of Concurrent Stochastic Games",
+    "url": "http://arxiv.org/abs/2609.04189v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
-    "url": "http://arxiv.org/abs/2609.02855v1",
+    "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
+    "url": "http://arxiv.org/abs/2609.04168v1",
     "type": "research"
   }
 ]
