@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-    "url": "http://arxiv.org/abs/2609.05415v1",
+    "title": "Learning Length-Extrapolatable Recurrent Models",
+    "url": "http://arxiv.org/abs/2609.09157v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-    "url": "http://arxiv.org/abs/2609.05403v1",
+    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+    "url": "http://arxiv.org/abs/2609.09152v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
-    "url": "http://arxiv.org/abs/2609.05363v1",
+    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+    "url": "http://arxiv.org/abs/2609.09140v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Variational Continuation for Double Pendulum Periodic Orbits",
-    "url": "http://arxiv.org/abs/2609.05337v1",
+    "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
+    "url": "http://arxiv.org/abs/2609.09135v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions",
-    "url": "http://arxiv.org/abs/2609.05334v1",
+    "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
+    "url": "http://arxiv.org/abs/2609.09130v1",
     "type": "research"
   }
 ]
