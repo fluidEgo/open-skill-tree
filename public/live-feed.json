@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Learning Length-Extrapolatable Recurrent Models",
-    "url": "http://arxiv.org/abs/2609.09157v1",
+    "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+    "url": "http://arxiv.org/abs/2609.10534v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
-    "url": "http://arxiv.org/abs/2609.09152v1",
+    "title": "A positive resolution of the gap-entropy conjecture",
+    "url": "http://arxiv.org/abs/2609.10529v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-    "url": "http://arxiv.org/abs/2609.09140v1",
+    "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+    "url": "http://arxiv.org/abs/2609.10525v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
-    "url": "http://arxiv.org/abs/2609.09135v1",
+    "title": "PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans",
+    "url": "http://arxiv.org/abs/2609.10515v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
-    "url": "http://arxiv.org/abs/2609.09130v1",
+    "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+    "url": "http://arxiv.org/abs/2609.10514v1",
     "type": "research"
   }
 ]
