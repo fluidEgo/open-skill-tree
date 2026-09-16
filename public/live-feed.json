@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "General Quantification of Covariate and Concept Shifts",
-    "url": "http://arxiv.org/abs/2609.11918v1",
+    "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+    "url": "http://arxiv.org/abs/2609.17499v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-    "url": "http://arxiv.org/abs/2609.11917v1",
+    "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
+    "url": "http://arxiv.org/abs/2609.17491v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
-    "url": "http://arxiv.org/abs/2609.11915v1",
+    "title": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
+    "url": "http://arxiv.org/abs/2609.17483v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
-    "url": "http://arxiv.org/abs/2609.11910v1",
+    "title": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
+    "url": "http://arxiv.org/abs/2609.17477v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "AccelForge: Comprehensive Modeling and Co-Design Framework for AI Accelerators",
-    "url": "http://arxiv.org/abs/2609.11906v1",
+    "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+    "url": "http://arxiv.org/abs/2609.17474v1",
     "type": "research"
   }
 ]
