@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
-    "url": "http://arxiv.org/abs/2609.17499v1",
+    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+    "url": "http://arxiv.org/abs/2609.19144v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
-    "url": "http://arxiv.org/abs/2609.17491v1",
+    "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+    "url": "http://arxiv.org/abs/2609.19135v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
-    "url": "http://arxiv.org/abs/2609.17483v1",
+    "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+    "url": "http://arxiv.org/abs/2609.19128v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
-    "url": "http://arxiv.org/abs/2609.17477v1",
+    "title": "Analog Pin Directionality as an Exfiltration Attack Surface in Mixed-Signal ICs",
+    "url": "http://arxiv.org/abs/2609.19111v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
-    "url": "http://arxiv.org/abs/2609.17474v1",
+    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+    "url": "http://arxiv.org/abs/2609.19107v1",
     "type": "research"
   }
 ]
