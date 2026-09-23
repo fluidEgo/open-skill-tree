@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
-    "url": "http://arxiv.org/abs/2609.24985v1",
+    "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+    "url": "http://arxiv.org/abs/2609.26783v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
-    "url": "http://arxiv.org/abs/2609.24983v1",
+    "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "url": "http://arxiv.org/abs/2609.26780v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
-    "url": "http://arxiv.org/abs/2609.24979v1",
+    "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+    "url": "http://arxiv.org/abs/2609.26779v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-    "url": "http://arxiv.org/abs/2609.24972v1",
+    "title": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+    "url": "http://arxiv.org/abs/2609.26751v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rare Event Estimation via Iterative Unalignment",
-    "url": "http://arxiv.org/abs/2609.24969v1",
+    "title": "Automatic depth-based local center clustering via $\u03b2$-integrated local depth and adaptive grouping",
+    "url": "http://arxiv.org/abs/2609.26748v1",
     "type": "research"
   }
 ]
