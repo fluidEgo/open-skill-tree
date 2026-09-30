@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
-    "url": "http://arxiv.org/abs/2609.35768v1",
+    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+    "url": "http://arxiv.org/abs/2609.38178v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Unifying Distributional Training for One-Step Visual Generation",
-    "url": "http://arxiv.org/abs/2609.35763v1",
+    "title": "Breakdown of Local Denoising as Semantic Speciation",
+    "url": "http://arxiv.org/abs/2609.38176v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-    "url": "http://arxiv.org/abs/2609.35760v1",
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "url": "http://arxiv.org/abs/2609.38169v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
-    "url": "http://arxiv.org/abs/2609.35758v1",
+    "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "url": "http://arxiv.org/abs/2609.38166v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Neural Harmonic Measure Operator",
-    "url": "http://arxiv.org/abs/2609.35752v1",
+    "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "url": "http://arxiv.org/abs/2609.38165v1",
     "type": "research"
   }
 ]
