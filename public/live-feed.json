@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
-    "url": "http://arxiv.org/abs/2609.38178v1",
+    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+    "url": "http://arxiv.org/abs/2609.40361v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Breakdown of Local Denoising as Semantic Speciation",
-    "url": "http://arxiv.org/abs/2609.38176v1",
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "url": "http://arxiv.org/abs/2609.40360v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-    "url": "http://arxiv.org/abs/2609.38169v1",
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "url": "http://arxiv.org/abs/2609.40359v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-    "url": "http://arxiv.org/abs/2609.38166v1",
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "url": "http://arxiv.org/abs/2609.40347v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
-    "url": "http://arxiv.org/abs/2609.38165v1",
+    "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+    "url": "http://arxiv.org/abs/2609.40335v1",
     "type": "research"
   }
 ]
