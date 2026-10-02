@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-    "url": "http://arxiv.org/abs/2609.40361v1",
+    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "url": "http://arxiv.org/abs/2610.02207v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Semifactual Credit-Augmented Policy Optimization",
-    "url": "http://arxiv.org/abs/2609.40360v1",
+    "title": "Embedding Prediction Helps Image Generation",
+    "url": "http://arxiv.org/abs/2610.02203v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
-    "url": "http://arxiv.org/abs/2609.40359v1",
+    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "url": "http://arxiv.org/abs/2610.02201v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
-    "url": "http://arxiv.org/abs/2609.40347v1",
+    "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+    "url": "http://arxiv.org/abs/2610.02199v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
-    "url": "http://arxiv.org/abs/2609.40335v1",
+    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+    "url": "http://arxiv.org/abs/2610.02198v1",
     "type": "research"
   }
 ]
