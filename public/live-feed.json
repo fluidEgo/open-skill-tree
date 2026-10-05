@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "url": "http://arxiv.org/abs/2610.02207v1",
+    "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "url": "http://arxiv.org/abs/2610.03713v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Embedding Prediction Helps Image Generation",
-    "url": "http://arxiv.org/abs/2610.02203v1",
+    "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+    "url": "http://arxiv.org/abs/2610.03712v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-    "url": "http://arxiv.org/abs/2610.02201v1",
+    "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+    "url": "http://arxiv.org/abs/2610.03709v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-    "url": "http://arxiv.org/abs/2610.02199v1",
+    "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+    "url": "http://arxiv.org/abs/2610.03702v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-    "url": "http://arxiv.org/abs/2610.02198v1",
+    "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
+    "url": "http://arxiv.org/abs/2610.03679v1",
     "type": "research"
   }
 ]
