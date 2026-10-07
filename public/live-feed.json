@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Base Models Can Reason By Taking a Cue From Training Data",
-    "url": "http://arxiv.org/abs/2610.06851v1",
+    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+    "url": "http://arxiv.org/abs/2610.08789v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-    "url": "http://arxiv.org/abs/2610.06844v1",
+    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "url": "http://arxiv.org/abs/2610.08785v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
-    "url": "http://arxiv.org/abs/2610.06834v1",
+    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+    "url": "http://arxiv.org/abs/2610.08773v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
-    "url": "http://arxiv.org/abs/2610.06833v1",
+    "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
+    "url": "http://arxiv.org/abs/2610.08764v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-    "url": "http://arxiv.org/abs/2610.06830v1",
+    "title": "Neural Petri flows for chemical reactions",
+    "url": "http://arxiv.org/abs/2610.08750v1",
     "type": "research"
   }
 ]
