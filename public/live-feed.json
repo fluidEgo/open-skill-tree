@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Decoupling Exploration from Optimization in RLVR",
-    "url": "http://arxiv.org/abs/2610.10536v1",
+    "title": "CSF: Contextual Safety Filtering for Motion Generators",
+    "url": "http://arxiv.org/abs/2610.12467v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
-    "url": "http://arxiv.org/abs/2610.10527v1",
+    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+    "url": "http://arxiv.org/abs/2610.12465v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-    "url": "http://arxiv.org/abs/2610.10526v1",
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "url": "http://arxiv.org/abs/2610.12448v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
-    "url": "http://arxiv.org/abs/2610.10520v1",
+    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+    "url": "http://arxiv.org/abs/2610.12449v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Why Forget-Only Unlearning Needs Memorization",
-    "url": "http://arxiv.org/abs/2610.10519v1",
+    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+    "url": "http://arxiv.org/abs/2610.12445v1",
     "type": "research"
   }
 ]
