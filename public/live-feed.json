@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "CSF: Contextual Safety Filtering for Motion Generators",
-    "url": "http://arxiv.org/abs/2610.12467v1",
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "url": "http://arxiv.org/abs/2610.13935v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-    "url": "http://arxiv.org/abs/2610.12465v1",
+    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "url": "http://arxiv.org/abs/2610.13931v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-    "url": "http://arxiv.org/abs/2610.12448v1",
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "url": "http://arxiv.org/abs/2610.13928v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-    "url": "http://arxiv.org/abs/2610.12449v1",
+    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "url": "http://arxiv.org/abs/2610.13924v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-    "url": "http://arxiv.org/abs/2610.12445v1",
+    "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+    "url": "http://arxiv.org/abs/2610.13923v1",
     "type": "research"
   }
 ]
