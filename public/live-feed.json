@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-    "url": "http://arxiv.org/abs/2610.18871v1",
+    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "url": "http://arxiv.org/abs/2610.20606v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-    "url": "http://arxiv.org/abs/2610.18869v1",
+    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "url": "http://arxiv.org/abs/2610.20607v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-    "url": "http://arxiv.org/abs/2610.18868v1",
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "url": "http://arxiv.org/abs/2610.20597v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
-    "url": "http://arxiv.org/abs/2610.18863v1",
+    "title": "Your Transformer Is Secretly Elastic",
+    "url": "http://arxiv.org/abs/2610.20588v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-    "url": "http://arxiv.org/abs/2610.18862v1",
+    "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "url": "http://arxiv.org/abs/2610.20587v1",
     "type": "research"
   }
 ]
