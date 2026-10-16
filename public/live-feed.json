@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-    "url": "http://arxiv.org/abs/2610.20606v1",
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "url": "http://arxiv.org/abs/2610.22372v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-    "url": "http://arxiv.org/abs/2610.20607v1",
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "url": "http://arxiv.org/abs/2610.22358v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Co-Evolving Acting and Forecasting for Language Agents",
-    "url": "http://arxiv.org/abs/2610.20597v1",
+    "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+    "url": "http://arxiv.org/abs/2610.22353v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Your Transformer Is Secretly Elastic",
-    "url": "http://arxiv.org/abs/2610.20588v1",
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "url": "http://arxiv.org/abs/2610.22344v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-    "url": "http://arxiv.org/abs/2610.20587v1",
+    "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+    "url": "http://arxiv.org/abs/2610.22343v1",
     "type": "research"
   }
 ]
