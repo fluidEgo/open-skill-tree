@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-    "url": "http://arxiv.org/abs/2610.28632v1",
+    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+    "url": "http://arxiv.org/abs/2610.30132v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-    "url": "http://arxiv.org/abs/2610.28628v1",
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "url": "http://arxiv.org/abs/2610.30128v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Planning under Noise with Neural Operators",
-    "url": "http://arxiv.org/abs/2610.28623v1",
+    "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+    "url": "http://arxiv.org/abs/2610.30122v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Adaptive Multi-Token Prediction: How far should we go?",
-    "url": "http://arxiv.org/abs/2610.28619v1",
+    "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+    "url": "http://arxiv.org/abs/2610.30119v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Efficient Edge-aware Attention Network for Graph Generation",
-    "url": "http://arxiv.org/abs/2610.28618v1",
+    "title": "The role of locality and weight sharing in convolutional neural networks",
+    "url": "http://arxiv.org/abs/2610.30118v1",
     "type": "research"
   }
 ]
