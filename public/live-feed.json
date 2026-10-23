@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-    "url": "http://arxiv.org/abs/2610.30132v1",
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "url": "http://arxiv.org/abs/2610.31670v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-    "url": "http://arxiv.org/abs/2610.30128v1",
+    "title": "Phase Transition from Random Features to Fully Trainable Networks",
+    "url": "http://arxiv.org/abs/2610.31663v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
-    "url": "http://arxiv.org/abs/2610.30122v1",
+    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "url": "http://arxiv.org/abs/2610.31662v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
-    "url": "http://arxiv.org/abs/2610.30119v1",
+    "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+    "url": "http://arxiv.org/abs/2610.31659v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "The role of locality and weight sharing in convolutional neural networks",
-    "url": "http://arxiv.org/abs/2610.30118v1",
+    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "url": "http://arxiv.org/abs/2610.31657v1",
     "type": "research"
   }
 ]
