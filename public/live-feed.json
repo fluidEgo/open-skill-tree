@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-    "url": "http://arxiv.org/abs/2610.31670v1",
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "url": "http://arxiv.org/abs/2610.32971v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Phase Transition from Random Features to Fully Trainable Networks",
-    "url": "http://arxiv.org/abs/2610.31663v1",
+    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "url": "http://arxiv.org/abs/2610.32969v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "url": "http://arxiv.org/abs/2610.31662v1",
+    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "url": "http://arxiv.org/abs/2610.32964v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-    "url": "http://arxiv.org/abs/2610.31659v1",
+    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "url": "http://arxiv.org/abs/2610.32955v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-    "url": "http://arxiv.org/abs/2610.31657v1",
+    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+    "url": "http://arxiv.org/abs/2610.32951v1",
     "type": "research"
   }
 ]
