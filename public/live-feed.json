@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-    "url": "http://arxiv.org/abs/2610.32971v1",
+    "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+    "url": "http://arxiv.org/abs/2610.35866v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-    "url": "http://arxiv.org/abs/2610.32969v1",
+    "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+    "url": "http://arxiv.org/abs/2610.35862v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
-    "url": "http://arxiv.org/abs/2610.32964v1",
+    "title": "On the stability of learning",
+    "url": "http://arxiv.org/abs/2610.35856v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
-    "url": "http://arxiv.org/abs/2610.32955v1",
+    "title": "Work Agents: Systems, Capabilities, and Optimization",
+    "url": "http://arxiv.org/abs/2610.35845v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
-    "url": "http://arxiv.org/abs/2610.32951v1",
+    "title": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
+    "url": "http://arxiv.org/abs/2610.35833v1",
     "type": "research"
   }
 ]
