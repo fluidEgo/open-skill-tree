@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-    "url": "http://arxiv.org/abs/2610.37668v1",
+    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+    "url": "http://arxiv.org/abs/2610.40654v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "When Should We Intervene at Test Time?",
-    "url": "http://arxiv.org/abs/2610.37658v1",
+    "title": "Rethinking Neural Thickets Without Weight Perturbations",
+    "url": "http://arxiv.org/abs/2610.40649v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-    "url": "http://arxiv.org/abs/2610.37657v1",
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "url": "http://arxiv.org/abs/2610.40647v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-    "url": "http://arxiv.org/abs/2610.37656v1",
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "url": "http://arxiv.org/abs/2610.40644v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
-    "url": "http://arxiv.org/abs/2610.37652v1",
+    "title": "world2vec: Mechanistic world models through latent dynamics learning",
+    "url": "http://arxiv.org/abs/2610.40637v1",
     "type": "research"
   }
 ]
