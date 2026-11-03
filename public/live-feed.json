@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-    "url": "http://arxiv.org/abs/2610.42149v1",
+    "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "url": "http://arxiv.org/abs/2611.03647v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
-    "url": "http://arxiv.org/abs/2610.42139v1",
+    "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "url": "http://arxiv.org/abs/2611.03648v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "A Better Critic Matters for Distribution Matching Distillation",
-    "url": "http://arxiv.org/abs/2610.42135v1",
+    "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+    "url": "http://arxiv.org/abs/2611.03634v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Instance-dependent sequential limits as an exact information ledger",
-    "url": "http://arxiv.org/abs/2610.42133v1",
+    "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+    "url": "http://arxiv.org/abs/2611.03633v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
-    "url": "http://arxiv.org/abs/2610.42126v1",
+    "title": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
+    "url": "http://arxiv.org/abs/2611.03627v1",
     "type": "research"
   }
 ]
