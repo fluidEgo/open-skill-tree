@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-    "url": "http://arxiv.org/abs/2611.05373v1",
+    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+    "url": "http://arxiv.org/abs/2611.06914v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
-    "url": "http://arxiv.org/abs/2611.05372v1",
+    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+    "url": "http://arxiv.org/abs/2611.06912v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
-    "url": "http://arxiv.org/abs/2611.05368v1",
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "url": "http://arxiv.org/abs/2611.06908v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
-    "url": "http://arxiv.org/abs/2611.05358v1",
+    "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+    "url": "http://arxiv.org/abs/2611.06905v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
-    "url": "http://arxiv.org/abs/2611.05355v1",
+    "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+    "url": "http://arxiv.org/abs/2611.06879v1",
     "type": "research"
   }
 ]
