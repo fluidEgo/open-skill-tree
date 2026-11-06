@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
-    "url": "http://arxiv.org/abs/2611.06914v1",
+    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "url": "http://arxiv.org/abs/2611.08487v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
-    "url": "http://arxiv.org/abs/2611.06912v1",
+    "title": "Scientist World: Grow a Research World for AI-Scientists",
+    "url": "http://arxiv.org/abs/2611.08478v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Perceptive Humanoid Motion from Simulation",
-    "url": "http://arxiv.org/abs/2611.06908v1",
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "url": "http://arxiv.org/abs/2611.08472v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
-    "url": "http://arxiv.org/abs/2611.06905v1",
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "url": "http://arxiv.org/abs/2611.08469v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
-    "url": "http://arxiv.org/abs/2611.06879v1",
+    "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+    "url": "http://arxiv.org/abs/2611.08465v1",
     "type": "research"
   }
 ]
