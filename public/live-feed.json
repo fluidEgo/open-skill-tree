@@ -1,32 +1,32 @@
 [
   {
     "source": "ArXiv Paper",
-    "title": "On Agentic Manipulation Policies",
-    "url": "http://arxiv.org/abs/2611.09892v1",
+    "title": "TorchCurves: Differentiable Parametric Curves",
+    "url": "http://arxiv.org/abs/2611.14516v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "On the (non-)closedness of the set of ReLU networks",
-    "url": "http://arxiv.org/abs/2611.09887v1",
+    "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "url": "http://arxiv.org/abs/2611.14515v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
-    "url": "http://arxiv.org/abs/2611.09882v1",
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "url": "http://arxiv.org/abs/2611.14514v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
-    "url": "http://arxiv.org/abs/2611.09878v1",
+    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+    "url": "http://arxiv.org/abs/2611.14511v1",
     "type": "research"
   },
   {
     "source": "ArXiv Paper",
-    "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
-    "url": "http://arxiv.org/abs/2611.09864v1",
+    "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+    "url": "http://arxiv.org/abs/2611.14508v1",
     "type": "research"
   }
 ]
